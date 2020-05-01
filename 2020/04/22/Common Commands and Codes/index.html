@@ -79,15 +79,15 @@
 
 
 
-<meta name="description" content="1. 二维list变一维：list&#x3D;[[0,1],[1,2]]key&#x3D;[n for a in list for n in a]&#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2] 2. 显卡内存查看： watch -n 0.1 nvidia-smi   3. pip添加国内源： -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple  4. 查看tf版本：pip list | grep tensor">
+<meta name="description" content="1. 二维list变一维：      list&#x3D;[[0,1],[1,2]]   key&#x3D;[n for a in list for n in a]   &#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2]    2. 显卡内存查看：     watch -n 0.1 nvidia-smi    3. pip添加国内源：     -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple   4. 查看tf版本：">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Common Commands and Codes">
 <meta property="og:url" content="http://yoursite.com/2020/04/22/Common%20Commands%20and%20Codes/index.html">
 <meta property="og:site_name" content="Wei Chen&#39;s HomePage">
-<meta property="og:description" content="1. 二维list变一维：list&#x3D;[[0,1],[1,2]]key&#x3D;[n for a in list for n in a]&#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2] 2. 显卡内存查看： watch -n 0.1 nvidia-smi   3. pip添加国内源： -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple  4. 查看tf版本：pip list | grep tensor">
+<meta property="og:description" content="1. 二维list变一维：      list&#x3D;[[0,1],[1,2]]   key&#x3D;[n for a in list for n in a]   &#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2]    2. 显卡内存查看：     watch -n 0.1 nvidia-smi    3. pip添加国内源：     -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple   4. 查看tf版本：">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-04-22T14:33:52.559Z">
-<meta property="article:modified_time" content="2020-04-22T14:55:14.458Z">
+<meta property="article:modified_time" content="2020-05-01T02:12:48.722Z">
 <meta property="article:author" content="cwei01">
 <meta name="twitter:card" content="summary">
 
@@ -290,13 +290,66 @@
       
 
       
-        <p><strong>1. 二维list变一维：</strong><br>list=[[0,1],[1,2]]<br>key=[n for a in list for n in a]<br>==&gt;key=[0,1,1,2]</p>
-<p><strong>2. 显卡内存查看：</strong><br> watch -n 0.1 nvidia-smi  </p>
-<p><strong>3. pip添加国内源：</strong><br> -i <a href="https://pypi.douban.com/simple" target="_blank" rel="noopener">https://pypi.douban.com/simple</a> </p>
-<p><strong>4. 查看tf版本：</strong><br>pip list | grep tensorflow</p>
-<p><strong>5. linux对文件权限的修改：</strong><br>sudo chmod 777 xxx.py</p>
-<p><strong>6. ubuntu prcharm启动：</strong><br>./pycharm.sh</p>
+        <p><strong>1. 二维list变一维：</strong>  </p>
+<pre>  
+list=[[0,1],[1,2]]  
+key=[n for a in list for n in a]  
+==>key=[0,1,1,2]
+</pre> 
 
+<p><strong>2. 显卡内存查看：</strong>  </p>
+<pre>
+ watch -n 0.1 nvidia-smi  </pre>
+
+<p><strong>3. pip添加国内源：</strong></p>
+<pre>  
+ -i https://pypi.douban.com/simple </pre>
+
+<p><strong>4. 查看tf版本：</strong>    </p>
+<pre>
+pip list | grep tensorflow </pre>
+
+<p><strong>5. linux对文件权限的修改：</strong> </p>
+<pre>   
+sudo chmod 777 xxx.py </pre>
+
+<p><strong>6. ubuntu prcharm启动：</strong>   </p>
+<pre> 
+./pycharm.sh  </pre>
+
+<p><strong>7. 列表n元素和为定值的求法：</strong></p>
+<pre> 
+ #Sum is a fixed value algorithm
+ list = [i+1 for i in range(5)]
+ x = [0 for i in range(5)]
+ def get_val(x, i, has, val, result):
+    if i > len(x) - 1:
+        return
+    if has + list[i] == val:
+        x[i] = 1
+        result.append([])
+        for j in range(len(x)):
+            result[len(result) - 1].append(x[j])
+        x[i] = 0
+    x[i] = 1  #If satisfied
+    get_val(x, i + 1, has + list[i], val, result)
+    x[i] = 0  #If not satisfied
+    get_val(x, i + 1, has, val, result)
+</pre>
+<p><strong>8. 二维list元素组合求法：</strong></p>
+<pre>
+def RecursionFunc(arr1, arrList):
+    if (arrList):
+        string = []
+        for x in arr1:
+            for y in arrList[0]:
+                string.append(x + y)
+        result = RecursionFunc(string, arrList[1:])
+        return result
+    else:
+        return arr1
+caseslist = RecursionFunc(list[0], list[1:])
+</pre>
       
     </div>
     

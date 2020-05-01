@@ -417,14 +417,42 @@ Chongqing University (2020 – 202
       
         
           
-          1. 二维list变一维：list=[[0,1],[1,2]]key=[n for a in list for n in a]==&gt;key=[0,1,1,2]
-2. 显卡内存查看： watch -n 0.1 nvidia-smi  
-3. pip添加国内源： -i https://pypi.douban.com/simple 
-4. 查看tf版本：pip list | grep tensorflow
-5. linux对文件权限的修改：sudo chmod 777 xxx.py
-6. ubuntu prcharm启动：./pycharm.sh
+          1. 二维list变一维：  
+  
+list=[[0,1],[1,2]]  
+key=[n for a in list for n in a]  
+==>key=[0,1,1,2]
+ 
 
-          
+2. 显卡内存查看：  
+
+ watch -n 0.1 nvidia-smi  
+
+3. pip添加国内源：
+  
+ -i https://pypi.douban.com/simple 
+
+4. 查看tf版本：    
+
+pip list | grep tensorflow 
+
+5. linux对文件权限的修改： 
+   
+sudo chmod 777 xxx.py 
+
+6. ubuntu prcharm启动：   
+ 
+./pycharm.sh  
+
+7. 列表n元素和为定值的求法：
+ 
+ #Sum is a fixed value algorithm
+ list = [i+1 for i in range(5)]
+ x = [0 for i in range(5)]
+ def get_val(x, i, has, val, result):
+    if i > len(x) - 1:
+    
+          ...
           <!--noindex-->
           <div class="post-button text-center">
             <a class="btn" href="/2020/04/22/Common%20Commands%20and%20Codes/#more" rel="contents">
