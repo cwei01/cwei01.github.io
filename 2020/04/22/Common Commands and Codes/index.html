@@ -87,7 +87,7 @@
 <meta property="og:description" content="1. 二维list变一维：      list&#x3D;[[0,1],[1,2]]   key&#x3D;[n for a in list for n in a]   &#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2]    2. 显卡内存查看：     watch -n 0.1 nvidia-smi    3. pip添加国内源：     -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple   4. 查看tf版本：">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-04-22T14:33:52.559Z">
-<meta property="article:modified_time" content="2020-05-02T13:19:12.882Z">
+<meta property="article:modified_time" content="2020-05-23T06:34:23.797Z">
 <meta property="article:author" content="cwei01">
 <meta name="twitter:card" content="summary">
 
@@ -347,7 +347,49 @@ if __name__ == '__main__':
   x=symbols('x')
   y=Symbol('y')
   alpha,beta=symbols('alpha,beta')
-  print(solve([expression 1],[expression 1],[x,y]))
+  print(solve([expression 1],[expression 2],[x,y]))
+</pre>
+<p><strong>10. dataframe修改某列符合条件的值：</strong></p>
+<pre>
+from sympy import *
+data_Q2.loc[data_Q2.Score<0.5 , 'score']="False" # set the value below 0.5 to false data_q2.loc[data_q2.score>=0.5 ,'Score'] = True 
+</0.5></pre>
+<p><strong>11. 两个list合并为一个dataframe：</strong></p>
+<pre>
+from pandas.core.frame import DataFrame
+c={"fpr" : FPR_list,
+   "tpr" : TPR_list} 
+df=DataFrame(c)
+</pre>
+<p><strong>12. 将一个csv文件按比例分为两个csv：</strong></p>
+<pre>
+def split_data(file0,N,file1,file2):
+    lines = open(file0, 'r', encoding='utf-8').readlines()
+    lines_for_b = int(len(lines) * N)+1
+    open(file1, 'w', encoding='utf-8').write(''.join(lines[:lines_for_b]))
+    open(file2, 'w', encoding='utf-8').write(''.join(lines[lines_for_b:]))
+    column_name = []
+    data = pd.read_csv(file0, encoding='utf-8')
+    for i in range(len(data.columns.values)):
+        column_name.append(data.columns.values[i])
+    test_data= pd.read_csv(file2, header=None, names=column_name)
+    test_data.to_csv(file2, index=False)
+</pre>
+<p><strong>13. 正则匹配 string中的数字：</strong></p>
+<pre>
+    string='123hhh56'
+    num_list=re.findall('\d+',string)
+    -->['123','56']
+</pre>
+<p><strong>14. list按等距离5分组并统计个数：</strong></p>
+<pre>
+for k, g in groupby(sorted(list), key=lambda x: int(x)//5):
+        #k_list.append(k)
+        len_list.append(len(list(g)))
+</pre>
+<p><strong>15. list每种元素统计个数：</strong></p>
+<pre>
+    pd.value_counts(list)  return dataframe
 </pre>
       
     </div>
