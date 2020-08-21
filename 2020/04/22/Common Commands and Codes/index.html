@@ -87,7 +87,7 @@
 <meta property="og:description" content="1. 二维list变一维：      list&#x3D;[[0,1],[1,2]]   key&#x3D;[n for a in list for n in a]   &#x3D;&#x3D;&gt;key&#x3D;[0,1,1,2]    2. 显卡内存查看：     watch -n 0.1 nvidia-smi    3. pip添加国内源：     -i https:&#x2F;&#x2F;pypi.douban.com&#x2F;simple   4. 查看tf版本：">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-04-22T14:33:52.559Z">
-<meta property="article:modified_time" content="2020-07-03T08:06:28.930Z">
+<meta property="article:modified_time" content="2020-08-21T02:52:17.091Z">
 <meta property="article:author" content="cwei01">
 <meta name="twitter:card" content="summary">
 
@@ -299,9 +299,10 @@ key=[n for a in list for n in a]
 <pre>
 pip list | grep tensorflow </pre>
 
-<p><strong>5. linux对文件权限的修改：</strong> </p>
+<p><strong>5. linux对文件权限的修改&amp;删除文件：</strong> </p>
 <pre>   
-sudo chmod 777 xxx.py </pre>
+sudo chmod 777 xxx.py 
+sudo rm -rf  path </pre>
 
 <p><strong>6. ubuntu prcharm启动：</strong>   </p>
 <pre> 
@@ -399,7 +400,22 @@ for k, g in groupby(sorted(list), key=lambda x: int(x)//5):
     关闭某个acreen:screen -S name -X quit
     关闭某个进程：kill -9  id
 </name></pre>
+<p><strong>17. Linux下面三方包路径不一致：</strong></p>
+<pre>
+ 有时候我们用anaconda安装了环境，一般用conda install XX就可以之间安装在 
+/Disk2/Anaconda3/envs/cw/lib/python3.6/site-packages
+路径下面，但是有些包conda安装不起，就必须去外面pip install,但是linux下面pip安装路径默认在 /usr/local/lib/python2.7/dist-packages，
+所以就需要将这个package and package.info一起放在anconda下面 ： 
+cp -r source target/
+另一种解决方式是：用pip绝对路径安装  sudo /Disk2/Anaconda3/envs/cw/bin/pip package name
+</pre> 
 
+<p><br><strong>18. 内网穿透连接服务器–linux服务器：</strong></p>
+<pre>
+sudo su  进入根目录  
+bash <(curl -s https: getfrp.sh) 下载软件 建立隧道 得到启动参数 home cw frpc_linux_amd64 -f 参数 < pre>
+
+</(curl></pre>
       
     </div>
     
