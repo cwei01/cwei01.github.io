@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Dingding's Homepage"
+title                    : "Chen Wei's Homepage"
 title_separator          : "-"
-name                     : &name "Chen Dingding"
+name                     : &name "Chen Wei"
 description              : &description "PhD student at Chongqing University"
 url                      : https://dingding-cqu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
