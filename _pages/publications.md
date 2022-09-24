@@ -13,13 +13,13 @@ A complete list can be found in my [Google Scholar](https://scholar.google.com/c
 
 ## 2022
 ------------
-- **Dingding Chen**, Ziyu Chen, Yanchen Deng, Zhongshi He, Lulu Wang.Inference-based Complete Algorithms for Asymmetric Distributed Constraint Problems.Artificial Intelligence Review, 2022 (**SCI, IF=9.588**). [[paper]](/files/AIR22.pdf)
-- **Dingding Chen**, Ziyu Chen, **Dingding Chen**, Ziyu Chen, Zhongshi He, Junsong Gao, Zhizhuo Su.Learning heuristics for weighted CSPs through deep reinforcement learning.Applied Intelligence, 2022 (**SCI, IF=5.019**). [[paper]](/files/APIN22.pdf)
-- Jie Wang, **Dingding Chen<sup>#</sup>**, Ziyu Chen, Xiangshuang Liu, Junsong Gao. Completeness Matters: Towards Efficient Caching in Tree-Based Synchronous Backtracking Search for DCOPs. In Proceedings 28th International Conference on Principles and Practice of Constraint Programming (CP'22). (acceptance rate: 51.3\%, **CCF-B**)  [[paper]](/files/cp22.pdf)
+- **Dingding Chen**, Ziyu Chen, Yanchen Deng, Zhongshi He, Lulu Wang. Inference-based Complete Algorithms for Asymmetric Distributed Constraint Problems. Artificial Intelligence Review, 2022 (**SCI, IF=9.588**). [[paper]](/files/AIR22.pdf)
+- **Dingding Chen**, Ziyu Chen, **Dingding Chen**, Ziyu Chen, Zhongshi He, Junsong Gao, Zhizhuo Su. Learning heuristics for weighted CSPs through deep reinforcement learning. Applied Intelligence, 2022 (**SCI, IF=5.019**). [[paper]](/files/APIN22.pdf)
+- Jie Wang, **Dingding Chen<sup>#</sup>**, Ziyu Chen, Xiangshuang Liu, Junsong Gao. Completeness Matters: Towards Efficient Caching in Tree-Based Synchronous Backtracking Search for DCOPs. In Proceedings 28th International Conference on Principles and Practice of Constraint Programming (CP'22), 2022. (acceptance rate: 51.3\%, **CCF-B**)  [[paper]](/files/cp22.pdf)
 - Yongwen Huang, **Dingding Chen**, Haiyan Wang, Lulu Wang. Gender recognition of Guanyin in China based on VGGNet. Heritage Science, 2022 (**SCI**). [[paper]](/files/HS22.pdf)
 ## 2021
 ------------
-- Xiangshuang Liu, Ziyu Chen, **Dingding Chen**, Junsong Gao. A Bound-Independent Pruning Technique to Speeding up Tree-Based Complete Search Algorithms for Distributed Constraint Optimization Problems. In Proceedings 27th International Conference on Principles and Practice of Constraint Programming (CP'21). (acceptance rate: 44\%, **CCF-B**)  [[paper]](/files/cp21.pdf)
+- Xiangshuang Liu, Ziyu Chen, **Dingding Chen**, Junsong Gao. A Bound-Independent Pruning Technique to Speeding up Tree-Based Complete Search Algorithms for Distributed Constraint Optimization Problems. In Proceedings 27th International Conference on Principles and Practice of Constraint Programming (CP'21), 2021. (acceptance rate: 44\%, **CCF-B**)  [[paper]](/files/cp21.pdf)
 ## 2020
 ------------
 - **Dingding Chen**, Yanchen Deng, Ziyu Chen, Zhongshi He, Wenxin Zhang. A hybrid tree-based algorithm to solve asymmetric distributed constraint optimization problems. Journal of Autonomous Agents and Multi-Agent Systems, Vol.34, Article 50. 2020. (**CCF-B**) [[paper]](/files/JAAMAS20.pdf)
