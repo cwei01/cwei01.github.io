@@ -12,8 +12,7 @@ I am currently a PhD at School of Computer Science, Chongqing University, Chongq
 
 # Research Interests
 
-- Multi-agent systems
-- Distributed constraint optimization problems
-- Constraint reasoning
-- Machine learning for combinatorial optimization
+- Sentiment Analysis in Natural Language Processing
+- Fairness in Recommendation System
+- Data Mining
 
