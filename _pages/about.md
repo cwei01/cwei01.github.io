@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD at Beihang University, Beijing, supervised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I received B.Sc. degree in Computer Science from Chongqing University and Southwest University of Science and Technology, respectively.
+
+I am currently in the 2nd year of my PhD program at Beihang University, Beijing, supervised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). My research interests includes fairness in machine learning and transfer learning. If you are interested in these fields, feel free to reach out for further discussion.
 
 # Research Interests
 
-- Sentiment Analysis in Natural Language Processing
-- Fairness in Recommendation System
-- Data Mining
+- LLM for Recommendation
+- Fairness in Machine Learning
+- Transfer Learning
 
