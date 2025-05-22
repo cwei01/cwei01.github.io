@@ -33,7 +33,7 @@ Publications
 ---
 
 - **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.: FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. TOIS 2024. [[paper]](https://dl.acm.org/doi/10.1145/3638352)
-- **Wei Chen**, YuXuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
+- **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 Before 2023
 ---
