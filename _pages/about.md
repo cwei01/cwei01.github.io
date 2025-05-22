@@ -25,7 +25,7 @@ Publications
 2025
 ---
 
-- Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.: HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation. TOIS 2025. [paper]
+- Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.: HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation. TOIS 2025. [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 - **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.: FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis. IJCAI 2025. [paper] [code]
 - Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.: Hyperbolic Diffusion Recommender Model. WWW 2025. [paper]
 - **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.: Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation. AAAI2025. [paper] [code]
@@ -33,15 +33,15 @@ Publications
 2024
 ---
 
-- **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.: FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. TOIS 2024. [paper]
+- **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.: FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. TOIS 2024. [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 - **Wei Chen**, YuXuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024. [paper] [code]
 
 Before 2023
 ---
 
 - **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.: A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.COLING 2022. [paper] [code]
-- **Wei Chen**, peiqin Lin, Wanqi Zhang, Jinglong Du and Zhongshi He.: Hierarchical Interactive Model for Joint Aspect Extraction and Sentiment Analysis. KBS 2022.[paper]
-- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🎉🎉🎉 **Runner-up student paper award**).
+- **Wei Chen**, peiqin Lin, Wanqi Zhang, Jinglong Du and Zhongshi He.: Hierarchical Interactive Model for Joint Aspect Extraction and Sentiment Analysis. KBS 2022.[[paper]]()
+- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🎉🎉🎉 **Runner-up student paper award**).[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
