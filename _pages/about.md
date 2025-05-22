@@ -52,22 +52,16 @@ Services
 
 Awards
 ======
-- Outstanding graduate of Beijing Normal University,Zhuhai, 2022
-- The Outstanding Graduation Thesis of Beijing Normal University, Zhuhai, 2022
-- Professional Scholarship of Beijing Normal University, Zhuhai, 2019, 2020, 2021
-- Academic Scholarship of Beijing Normal University, Zhuhai, 2021
-- Outstanding student cadre Honor of Beijing Normal University, Zhuhai, 2019, 2020
-- National Second Prize & Guangdong First Prize in the 7th Teddy Cup Data Mining Challenge (Title: Analysis of Safe Driving Behavior of Transport Vehicles), 2019
-- First Prize in China University Students Mathematical Contest in Modeling, Guangdong Division (Title: Credit Decisions of Small, Medium and Micro Enterprises), 2020
-- Best Presentation Award in the 10th IEEE International Conference on Education and Information Technology, ICEIT 2021
-- Third Prize in the 8th "Challenge Cup" College Students' Extracurricular Academic Science and Technology Works Competition in Beijing Normal University, Zhuhai, 2020
-- Third Prize in the 2nd Guangdong-Hong Kong-Macau College Student Public Administration Data Analysis Contest, 2022
+- National Scholarship, 2022
+- The Runner-up Student Paper Award in ICONIP,2020
+- The 2nd in China College Student Computer Design Competition, 2019
+
 
 
 Others
 ======
-- 🎓 If you are also interested in natural language processing and machine translation, you can follow my lab and lab members: [NLP2CT LAB](http://nlp2ct.cis.um.edu.mo/), I love them.
-- ✨[Zhan Runzhe](https://runzhe.me/) is my current advisor, who focus on machine translation and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
-- 🌈[Chen Xin](https://github.com/Chen-X666) is one of my best friends, who focus on Fintech and NLP at University of Southampton currently, he has many interesting dreams.
+- 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
+- ✨[Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on machine translation and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
+- 🌈I am someone who is passionate about life, with a love for football, music, and travel.
 
 <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
