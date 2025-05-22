@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD at School of Computer Science, Beihang University, Chongqing, supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.htm) and Lec. [Ziyu Chen](http://www.cs.cqu.edu.cn/info/1275/3801.htm). Prior to this, I received B.Sc. degree in Computer Science Kunming University of Science and Technology.
+I am currently a second-year PhD student at Beihang University, supervised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I received my Master's degree in Chongqing University, supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.html).
+
+I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.html)
 
 Research Interests
 ======
 - Transfer Learning: LLM-Generated Text Detection, Hallucination Detection, Pre-training Data Detection
-- Fairness Machine Learning: LLMs Evaluation, Data Selection for LLM Instruction Tuning
-- LLM: LLM for Research, LLM Instruction Tuning
+- Fairness Machine Learning: LLMs Evaluation, Data Selection for LLM Instruction Tuning https://fuzhenzhuang.github.io/
+- LLM: LLM for Research, LLM Instruction Tuning http://www.cs.cqu.edu.cn/info/1274/3790.htm
 
 
 Publications
