@@ -29,7 +29,7 @@ Publications
 - **Wei Chen**, YuXuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024.
 - **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.: A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.COLING 2022.
 - **Wei Chen**, peiqin Lin, Wanqi Zhang, Jinglong Du and Zhongshi He.: Hierarchical Interactive Model for Joint Aspect Extraction and Sentiment Analysis. KBS 2022.
-- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🔥🔥🔥 **Runner-up student paper award**).
+- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🎉🎉🎉 **Runner-up student paper award**).
 
 
 Services
