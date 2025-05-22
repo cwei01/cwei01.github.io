@@ -13,9 +13,9 @@ redirect_from:
 
 Research Interests
 ======
-- Transfer Learning: LLM-Generated Text Detection, Hallucination Detection, Pre-training Data Detection
-- Fairness Machine Learning: LLMs Evaluation, Data Selection for LLM Instruction Tuning https://fuzhenzhuang.github.io/
-- LLM: LLM for Research, LLM Instruction Tuning http://www.cs.cqu.edu.cn/info/1274/3790.htm
+- Transfer Learning: Multi-Task Transfer, Multi-Domain Transfer
+- Fairness Machine Learning: Towards Fair Recommendation
+- LLM: LLM for Research
 
 
 Publications
