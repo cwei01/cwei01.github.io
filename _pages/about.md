@@ -40,7 +40,7 @@ Before 2023
 
 - **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.: A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.COLING 2022. [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)
 - **Wei Chen**, peiqin Lin, Wanqi Zhang, Jinglong Du and Zhongshi He.: Hierarchical Interactive Model for Joint Aspect Extraction and Sentiment Analysis. KBS 2022. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512200925X)
-- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🎉🎉🎉 <span style="color:red">Runner-up student paper award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+- **Wei Chen**, Wenxin Yu, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP2020 (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
@@ -52,7 +52,7 @@ Services
 Awards
 ======
 - National Scholarship, 2022
-- The Runner-up Student Paper Award in ICONIP,2020
+- The Runner-up Student Paper Award in ICONIP, 2020
 - The 2nd in China College Student Computer Design Competition, 2019
 
 
@@ -60,7 +60,7 @@ Awards
 Others
 ======
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
-- ✨[Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
-- 🌈I am someone who is passionate about life, with a love for football, music, and travel.
+- ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
+- 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
 
 <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
