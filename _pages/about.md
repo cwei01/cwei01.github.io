@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at Beihang University, supervised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I received my Master's degree in Chongqing University, supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.html).
-
-I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.html)
+I am Chen Wei (陈伟). I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](http://www.cs.cqu.edu.cn/info/1274/3790.html)
 
 Research Interests
 ======
