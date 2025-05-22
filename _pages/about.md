@@ -36,7 +36,7 @@ Publications
 Services
 ======
 - Conference Reviewer: ACL ARR, ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI
-- Journal Reviewer: KBS 
+- Journal Reviewer: KBS, Neurocomputing
 
 
 Awards
