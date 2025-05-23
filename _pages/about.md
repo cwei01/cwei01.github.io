@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interests
 ======
-- Transfer Learning: Multi-Task Transfer, Multi-Domain Transfer
+- Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer
 - Fairness Machine Learning: Towards Fair Recommendation
 - LLM: LLM for Research, LLM reasoning
 
