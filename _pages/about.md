@@ -15,7 +15,7 @@ Research Interests
 ======
 - Transfer Learning: Multi-Task Transfer, Multi-Domain Transfer
 - Fairness Machine Learning: Towards Fair Recommendation
-- LLM: LLM for Research
+- LLM: LLM for Research, LLM reasoning
 
 
 Publications
@@ -44,7 +44,7 @@ Before 2023
 
 Services
 ======
-- Conference Reviewer: ACL ARR, ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI
+- Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
