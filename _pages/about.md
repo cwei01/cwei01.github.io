@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
-- My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
+- 🚀 I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
+- 🚀 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
 ======
