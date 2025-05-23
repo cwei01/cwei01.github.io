@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- ![image](https://github.com/user-attachments/assets/68d037aa-0f26-4aca-ad8f-a7accae12713)  I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
+- I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 - My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
@@ -40,8 +40,7 @@ Before 2023
 
 - **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.: A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis. COLING 2022. [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)
 - **Wei Chen**, Wenxin Yu, Gang He, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP 2020.  
-  (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>).  
-  [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+  (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
