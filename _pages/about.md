@@ -33,14 +33,14 @@ Publications
 ---
 
 - **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.: FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. TOIS 2024. [[paper]](https://dl.acm.org/doi/10.1145/3638352)
-- **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
+- **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. AAAI 2024. [[📄]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 Before 2023
 ---
 
 - **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.: A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis. COLING 2022. [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)
 - **Wei Chen**, Wenxin Yu, Gang He, and et.al,: Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification. ICONIP 2020.  
-  (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+  (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [[📄]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
