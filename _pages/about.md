@@ -26,16 +26,16 @@ Publications
 ---
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
   **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
 - **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation.**  
   Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 - **Hyperbolic Diffusion Recommender Model.**  
-  Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
+  Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.  
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
 2024
 ---
