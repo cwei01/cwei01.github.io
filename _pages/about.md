@@ -24,17 +24,25 @@ Publications
 
 2025
 ---
-- **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.  
+- **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
+**Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
 <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IJCAI2025</span>. [📄](https://cwei01.github.io/) [🔗](https://cwei01.github.io/)
-- Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.: HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TOIS2025</span>. [📄](https://dl.acm.org/doi/10.1145/3728463)
-- Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.: Hyperbolic Diffusion Recommender Model. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">WWW2025</span>. [📄](https://arxiv.org/html/2504.01541v1)
-- **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.: Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">AAAI2025</span>. [📄](https://arxiv.org/abs/2412.11654) [🔗](https://github.com/cwei01/TDSS)
+- **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation.**  
+  Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
+ <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TOIS2025</span>. [📄](https://dl.acm.org/doi/10.1145/3728463)
+- **Hyperbolic Diffusion Recommender Model.**  
+  Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">WWW2025</span>. [📄](https://arxiv.org/html/2504.01541v1)
+-**Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
+ **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.
+<span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">AAAI2025</span>. [📄](https://arxiv.org/abs/2412.11654) [🔗](https://github.com/cwei01/TDSS)
 
 2024
 ---
 
-- **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.: FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TOIS2024</span>. [📄](https://dl.acm.org/doi/10.1145/3638352)
+- **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.:  
+  FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.  
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TOIS2024</span>. [📄](https://dl.acm.org/doi/10.1145/3638352)
 - **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.: Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">AAAI2024</span>. [📄](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [🔗](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 Before 2023
