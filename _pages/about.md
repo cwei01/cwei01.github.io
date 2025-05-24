@@ -12,14 +12,14 @@ redirect_from:
 - 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
----
+<div style="height: 2px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 10px 0;"></div>
 - Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer
 - Fairness Machine Learning: Towards Fair Recommendation
 - LLM: LLM for Research, LLM reasoning
 
 
 Publications
----
+<div style="height: 2px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 10px 0;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). * denotes corresponding author, # denotes co-first author.
 
 2025  
@@ -55,13 +55,13 @@ Before 2023
 
 
 Services
----
+<div style="height: 2px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 10px 0;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
 Awards
----
+<div style="height: 2px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 10px 0;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
 - The 2nd in China College Student Computer Design Competition, 2019
@@ -69,7 +69,7 @@ Awards
 
 
 Others
----
+<div style="height: 2px; background: linear-gradient(to right, #1E90FF, #00BFFF); margin: 10px 0;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
 - 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
