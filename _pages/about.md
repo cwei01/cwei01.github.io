@@ -12,18 +12,17 @@ redirect_from:
 - 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
-======
+---
 - Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer
 - Fairness Machine Learning: Towards Fair Recommendation
 - LLM: LLM for Research, LLM reasoning
 
 
 Publications
-======
+---
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). * denotes corresponding author, # denotes co-first author.
 
-2025
----
+2025  
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
   **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
@@ -37,8 +36,7 @@ Publications
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
-2024
----
+2024  
 -  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.**  
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
@@ -46,8 +44,7 @@ Publications
    **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-Before 2023
----
+Before 2023  
 -  **A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.**
    **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight:  0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
@@ -58,13 +55,13 @@ Before 2023
 
 
 Services
-======
+---
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
 Awards
-======
+---
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
 - The 2nd in China College Student Computer Design Competition, 2019
@@ -72,7 +69,7 @@ Awards
 
 
 Others
-======
+---
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
 - 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
