@@ -26,35 +26,35 @@ Publications
 ---
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
   **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.8em;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
 - **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation.**  
   Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 - **Hyperbolic Diffusion Recommender Model.**  
   Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: bold;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
 2024
 ---
 -  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.** 
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 -  **Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.**  
    **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: bold;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 Before 2023
 ---
 -  **A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.**
    **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: bold;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight:  0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
 - **Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification.**  
   **Wei Chen**, Wenxin Yu, Gang He, and et.al.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: bold;">ICONIP2020</span>
-  (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight:  0.6em;">ICONIP2020</span>
+  (<span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
