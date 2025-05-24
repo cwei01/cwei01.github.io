@@ -22,7 +22,7 @@ Research Interests
 Publications
 =====
 <div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
- A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). * denotes corresponding author, # denotes co-first author.
+ A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 2025  
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
@@ -36,14 +36,16 @@ Publications
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)  
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
+  
 2024  
 -  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.**  
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 -  **Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.**  
    **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)  
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
+
 Before 2023  
 -  **A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.**
    **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
