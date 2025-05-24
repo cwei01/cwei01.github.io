@@ -54,7 +54,7 @@ Before 2023
 - **Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification.**  
   **Wei Chen**, Wenxin Yu, Gang He, and et.al.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight:  0.6em;">ICONIP2020</span>
-  (<span style="color:red">Runner-up Student Paper Award</span>). [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+  (<span style="color:red">Runner-up Student Paper Award</span>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
 Services
