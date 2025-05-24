@@ -24,7 +24,7 @@ Publications
 
 2025
 ---
-- **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.: FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis. IJCAI 2025. [📄](https://cwei01.github.io/) </a> [🔗](https://cwei01.github.io/)
+- **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.: FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis. <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IJCAI2025</span>. [📄](https://cwei01.github.io/) </a> [🔗](https://cwei01.github.io/)
 - Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.: HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation. TOIS 2025. [📄](https://dl.acm.org/doi/10.1145/3728463)
 - Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.: Hyperbolic Diffusion Recommender Model. WWW 2025. [📄](https://arxiv.org/html/2504.01541v1)
 - **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.: Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation. AAAI2025. [📄](https://arxiv.org/abs/2412.11654) [🔗](https://github.com/cwei01/TDSS)
