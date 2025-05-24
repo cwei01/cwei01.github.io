@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - 📄 I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
-- My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
+- 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
 ======
@@ -42,7 +42,7 @@ Publications
 -  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.** 
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 2px; font-weight: bold;">TOIS2024</span> [📄](https://dl.acm.org/doi/10.1145/3638352)
--  Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.  
+-  **Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.**  
    **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 2px; font-weight: bold;">AAAI2024</span> [📄](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [🔗](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
