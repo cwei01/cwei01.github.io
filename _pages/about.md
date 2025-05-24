@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
+- 📄 I am Chen Wei <span style="color:blue">(陈伟)</span>. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 - My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
@@ -26,13 +26,13 @@ Publications
 ---
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
   **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">IJCAI2025</span> [📄](https://cwei01.github.io/) [🔗](https://cwei01.github.io/)
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 2px; font-weight: bold;">IJCAI2025</span> [📄](https://cwei01.github.io/) [🔗](https://cwei01.github.io/)
 - **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation.**  
   Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">TOIS2025</span> [📄](https://dl.acm.org/doi/10.1145/3728463)
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 2px; font-weight: bold;">TOIS2025</span> [📄](https://dl.acm.org/doi/10.1145/3728463)
 - **Hyperbolic Diffusion Recommender Model.**  
   Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.
-  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">WWW2025</span> [📄](https://arxiv.org/html/2504.01541v1)
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 2px; font-weight: bold;">WWW2025</span> [📄](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">AAAI2025</span> [📄](https://arxiv.org/abs/2412.11654) [🔗](https://github.com/cwei01/TDSS)
