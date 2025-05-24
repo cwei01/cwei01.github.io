@@ -39,7 +39,7 @@ Publications
 
 2024
 ---
--  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.** 
+-  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.**  
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight:  0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 -  **Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.**  
