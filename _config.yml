@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Chen"
+  name             : "Wei Chen <span style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-size: 24px; color: #333;">陈伟</span> "
   avatar           : "profile.png"
   bio              : "PhD student at Beihang University"
   location         : "Beijing, China"
