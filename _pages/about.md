@@ -31,7 +31,7 @@ Publications
   Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 - **Hyperbolic Diffusion Recommender Model.**  
-  Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.  
+  Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing wang, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
@@ -49,7 +49,7 @@ Publications
 Before 2023
 ---
 -  **A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.**
-   **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.  
+   **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight:  0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
 - **Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification.**  
   **Wei Chen**, Wenxin Yu, Gang He, and et.al.  
