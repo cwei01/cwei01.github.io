@@ -34,12 +34,12 @@ Publications
   Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, deqing wang, Fuzhen Zhuang.
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">WWW2025</span> [📄](https://arxiv.org/html/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
-  **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.
+  **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">AAAI2025</span> [📄](https://arxiv.org/abs/2412.11654) [🔗](https://github.com/cwei01/TDSS)
 
 2024
 ---
--  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph. **  
+-  **FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph.** 
   **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">TOIS2024</span> [📄](https://dl.acm.org/doi/10.1145/3638352)
 -  Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction.  
@@ -51,9 +51,9 @@ Before 2023
 -  **A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis.**
    **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhan Zhuang and Zhongshi He.  
   <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">COLING2022</span> [📄](https://aclanthology.org/2022.coling-1.611/) [🔗](cwei01/hi-asa)  
-- **Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification.**
+- **Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification.**  
   **Wei Chen**, Wenxin Yu, Gang He, and et.al.  
-  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">INONIP2020</span>.  
+  <span style="background-color: #1E90FF; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">ICONIP2020</span>.
   (🎉🎉🎉 <span style="color:red">Runner-up Student Paper Award</span>). [📄](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
 
