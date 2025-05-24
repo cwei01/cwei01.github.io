@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wei Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Wei Chen"
+name                     : &name "Wei Chen <span style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-size: 24px; color: #333;">陈伟</span>"
 description              : &description "PhD student at Beihang University"
 url                      : https://cwei01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
