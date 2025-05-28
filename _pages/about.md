@@ -34,7 +34,7 @@ Publications
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 - **Hyperbolic Diffusion Recommender Model.**  
   Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing wang, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">WWW2025</span> [[paper]](https://arxiv.org/html/2504.01541v1)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">WWW2025</span> [[paper]](https://arxiv.org/pdf/2504.01541v1)
 - **Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation.**  
   **Wei Chen**,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
