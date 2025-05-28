@@ -28,7 +28,7 @@ Publications
 2025  
 - **FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis.**  
   **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://cwei01.github.io/) [[code]](https://cwei01.github.io/)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://arxiv.org/abs/2505.21040) [[code]](https://github.com/cwei01/FCKT)
 - **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation.**  
   Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight:  0.6em;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
