@@ -26,16 +26,16 @@ Research Interests
 
 Publications
 =====
-<div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
+<div style="height: 1px; background: #000; margin: -2;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 2026
 
-[1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang*, Deqing wang.
+[1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing wang.
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation. 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 
-[2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang*, Hongrui Liu, Libang Zhang, Guo Ye, HUIMEI HE.
+[2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, HUIMEI HE.
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation.
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
@@ -86,14 +86,14 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation.
 
 Services
 =====
-<div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
+<div style="height: 1px; background: #000; margin: -2;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
 Awards
 =====
-<div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
+<div style="height: 1px; background: #000; margin: -2;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
 - The 2nd in China College Student Computer Design Competition, 2019
@@ -102,7 +102,7 @@ Awards
 
 Others
 =====
-<div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
+<div style="height: 1px; background: #000; margin: -2;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
 - 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
