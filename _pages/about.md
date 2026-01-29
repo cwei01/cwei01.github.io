@@ -13,8 +13,7 @@ redirect_from:
 📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
-Research Interests
-=====
+<h3>Research Interests</h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 <ul style="padding-left: 0; margin-left: 0;">
   <li>Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer</li>
@@ -24,8 +23,7 @@ Research Interests
 
 
 
-Publications
-===
+<h3>Publications</h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
@@ -87,15 +85,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-Services
-====
+<h3>Services</h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
-Awards
-==
+<h3>Awards<\h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
@@ -103,8 +99,7 @@ Awards
 
 
 
-Others
-===
+<h3>Others</h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
