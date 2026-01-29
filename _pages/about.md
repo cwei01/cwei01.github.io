@@ -33,23 +33,23 @@ Publications
 <ul style="padding-left: 0; margin-left: 0;">
   <li>FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning: 
     <strong>Wei Chen</strong>, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE2025</span> [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em; text-decoration: none;">TKDE2025</span> [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
   </li>
   <li>FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis:
     <strong>Wei Chen</strong>, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://arxiv.org/abs/2505.21040) [[code]](https://github.com/cwei01/FCKT)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em; text-decoration: none;">IJCAI2025</span> [[paper]](https://arxiv.org/abs/2505.21040) [[code]](https://github.com/cwei01/FCKT)
   </li>
   <li>HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation:
     Meng Yuan, Zhao Zhang, <strong>Wei Chen</strong>, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em; text-decoration: none;">TOIS2025</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
   </li>
   <li>Hyperbolic Diffusion Recommender Model.
     Meng Yuan, Yutian Xiao, <strong>Wei Chen</strong>, Chu Zhao, Deqing wang, Fuzhen Zhuang.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">WWW2025</span> [[paper]](https://arxiv.org/pdf/2504.01541v1)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em; text-decoration: none;">WWW2025</span> [[paper]](https://arxiv.org/pdf/2504.01541v1)
   </li>
   <li>Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation:
     <strong>Wei Chen</strong>,  Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em; text-decoration: none;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
   </li>
 </ul>
 
@@ -57,11 +57,11 @@ Publications
 <ul style="padding-left: 0; margin-left: 0;">
   <li>FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph:
     <strong>Wei Chen</strong>, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em; text-decoration: none;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
   </li>
   <li>Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction:
     <strong>Wei Chen</strong>, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em; text-decoration: none;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
   </li>
 </ul>
 
@@ -69,13 +69,15 @@ Publications
 <ul style="padding-left: 0; margin-left: 0;">
   <li>A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis:
     <strong>Wei Chen</strong>, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
+    <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em; text-decoration: none;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
   </li>
   <li>Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification:
     <strong>Wei Chen</strong>, Wenxin Yu, Gang He, and et.al.  
-    <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">ICONIP2020</span> (<span style="color:red">Runner-up Student Paper Award</span>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
+    <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em; text-decoration: none;">ICONIP2020</span> (<span style="color:red">Runner-up Student Paper Award</span>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
   </li>
 </ul>
+
+
 
 
 Services
