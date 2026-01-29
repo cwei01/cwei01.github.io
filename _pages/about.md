@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 layout: single
 classes: wide
 excerpt: "About me"
@@ -24,7 +23,7 @@ redirect_from:
 
 
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
@@ -84,13 +83,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h3>Services</h3>
+<h2>Services</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
-<h3>Awards<\h3>
+<h2>Awards</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
@@ -98,7 +97,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h3>Others<\h3>
+<h2>Others</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
