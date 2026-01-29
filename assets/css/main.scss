@@ -39,14 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* only for publications page */
-.layout--single.publications .page__content {
-  font-size: 15px;
-  line-height: 1.75;
+/* ===== Global typography ===== */
+.page__content {
+  font-size: 15px;      /* 全文基础字号 */
+  line-height: 1.5;    /* 行距 */
 }
 
-.layout--single.publications .page__content ul li strong {
+.page__content p,
+.page__content li {
   font-size: 15px;
+  line-height: 1.5;
 }
 
 
