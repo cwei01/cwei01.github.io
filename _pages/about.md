@@ -25,11 +25,11 @@ Research Interests
 
 
 Publications
-=====
+===
 <div style="height: 1px; background: #000; margin: -2;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
-2026
+#2026
 
 [1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing wang.
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation 
@@ -39,7 +39,7 @@ Learning Adaptive Distribution Alignment with Neural Characteristic Function for
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-2025
+#2025
 
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
   FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
@@ -61,7 +61,7 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation
   Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
-2024
+#2024
 
 [1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
@@ -71,7 +71,7 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation
   Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-2023
+#2023
 [1] **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
   A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
@@ -85,14 +85,14 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation
 
 
 Services
-=====
+====
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
 Awards
-=====
+==
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
@@ -101,7 +101,7 @@ Awards
 
 
 Others
-=====
+===
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
