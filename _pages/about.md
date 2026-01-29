@@ -31,18 +31,18 @@ Publications
 
 #2026
 
-[1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing wang.
+[1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing wang. 
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 
-[2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, HUIMEI HE.
+[2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, HUIMEI HE. 
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 #2025
 
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
-  FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
+FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE</span> [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
 
 [2] **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
