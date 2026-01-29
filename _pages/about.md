@@ -14,8 +14,8 @@ redirect_from:
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 <h2>Research Interests</h2>
-<div style="height: 1.5px; background: #000; margin: 8;"></div>
-<ul style="padding-left: 0; margin-left: 0;">
+<div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
+<ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
   <li>Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer</li>
   <li>Fairness Machine Learning: Towards Fair Recommendation</li>
   <li>LLM: LLM for Research, LLM reasoning</li>
