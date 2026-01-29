@@ -30,6 +30,7 @@ Publications
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 2026
+
 [1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang*, Deqing wang.
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation. 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
@@ -39,6 +40,7 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation.
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 2025
+
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
   FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE</span> [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
@@ -60,6 +62,7 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation.
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
 2024
+
 [1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS2024</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
