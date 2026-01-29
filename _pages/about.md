@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 <h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">About me</h2>
-<div style="height: 1px; background: #000; margin: 0;"></div>
+<div style="height: 1.5px; background: #000; margin: 8;"></div>
 📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
@@ -24,7 +24,7 @@ redirect_from:
 
 
 <h2>Publications</h2>
-<div style="height: 1px; background: #000; margin: 2;"></div>
+<div style="height: 1.5px; background: #000; margin: 8;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 #2026
@@ -84,13 +84,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 <h2>Services</h2>
-<div style="height: 1px; background: #000; margin: 0;"></div>
+<div style="height: 1.5px; background: #000; margin: 8;"></div>
 - Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
 - Journal Reviewer: KBS, Neurocomputing
 
 
 <h2>Awards</h2>
-<div style="height: 1px; background: #000; margin: -2;"></div>
+<div style="height: 1.5px; background: #000; margin: 8;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
 - The 2nd in China College Student Computer Design Competition, 2019
@@ -98,7 +98,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 <h2>Others</h2>
-<div style="height: 1px; background: #000; margin: 0;"></div>
+<div style="height: 1.5px; background: #000; margin: 8;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
 - 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
