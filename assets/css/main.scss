@@ -39,6 +39,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* only for publications page */
+.layout--single.publications .page__content {
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+.layout--single.publications .page__content ul li strong {
+  font-size: 15px;
+}
 
 
 
