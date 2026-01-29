@@ -1,7 +1,8 @@
-classes: wide
 ---
 permalink: /
 title: "About me"
+layout: single
+classes: wide
 excerpt: "About me"
 author_profile: true
 redirect_from: 
