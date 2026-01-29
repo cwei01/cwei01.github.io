@@ -32,11 +32,11 @@ Publications
 2026
 
 [1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing wang.
-Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation. 
+Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 
 [2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, HUIMEI HE.
-Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation.
+Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation 
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
 2025
