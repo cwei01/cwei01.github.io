@@ -13,7 +13,7 @@ redirect_from:
 📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
-<h3>Research Interests</h3>
+<h2>Research Interests</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 <ul style="padding-left: 0; margin-left: 0;">
   <li>Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer</li>
