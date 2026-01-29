@@ -10,8 +10,8 @@ redirect_from:
   - /about.html
 ---
 <div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
-- 📄 I'm Chen Wei (<span style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-size: 24px; color: #333;">陈伟</span>). I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
-- 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
+📄 I'm Chen Wei (<span style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-size: 24px; color: #333;">陈伟</span>). I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
+🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 Research Interests
 =====
