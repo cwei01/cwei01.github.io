@@ -15,7 +15,7 @@ redirect_from:
 
 Research Interests
 =====
-<div style="height: 4px; background: linear-gradient(to right, #1E90FF, white); margin: 10px 0;"></div>
+<div style="height: 1px; background: #000; margin: 0;"></div>
 - Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer
 - Fairness Machine Learning: Towards Fair Recommendation
 - LLM: LLM for Research, LLM reasoning
