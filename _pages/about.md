@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="font-size: 30px; font-weight: 700; margin-top: 10px;">About me</h1>
+<h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">About me</h2>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
