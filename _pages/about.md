@@ -97,7 +97,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h3>Others</h3>
+<h3>Others<\h3>
 <div style="height: 1px; background: #000; margin: -2;"></div>
 - 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
 - ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
