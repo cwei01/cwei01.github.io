@@ -41,13 +41,13 @@
 @import "print";
 /* ===== Global typography ===== */
 .page__content {
-  font-size: 10px;      /* 全文基础字号 */
+  font-size: 1px;      /* 全文基础字号 */
   line-height: 1;    /* 行距 */
 }
 
 .page__content p,
 .page__content li {
-  font-size: 10px;
+  font-size: 1px;
   line-height: 1;
 }
 
