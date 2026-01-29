@@ -14,7 +14,7 @@ redirect_from:
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 <h2>Research Interests</h2>
-<div style="height: 1px; background: #000; margin: -2;"></div>
+<div style="height: 2px; background: #000; margin: 2;"></div>
 <ul style="padding-left: 0; margin-left: 0;">
   <li>Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer</li>
   <li>Fairness Machine Learning: Towards Fair Recommendation</li>
@@ -24,7 +24,7 @@ redirect_from:
 
 
 <h2>Publications</h2>
-<div style="height: 1px; background: #000; margin: 0;"></div>
+<div style="height: 1px; background: #000; margin: 2;"></div>
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 #2026
