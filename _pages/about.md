@@ -11,8 +11,7 @@ redirect_from:
 <h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">About me</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 
-📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
-🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
+📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm). My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
@@ -28,7 +27,7 @@ redirect_from:
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
-#2026
+**2026**
 
 [1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
@@ -38,7 +37,7 @@ Learning Adaptive Distribution Alignment with Neural Characteristic Function for
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-#2025
+**2025**
 
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
 FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
@@ -60,7 +59,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
-#2024
+**2024**
 
 [1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
@@ -70,7 +69,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-#2023
+**2023 and Before**
 
 [1] **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
   A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis  
