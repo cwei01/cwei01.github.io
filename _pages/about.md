@@ -98,7 +98,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 <h2>💬 Services</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
-<ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
+<ul style="padding-left: 20px; margin-left: 0;">
   <li> Conference Reviewer: ICML2024-2026, ICLR2024-2026, NeurIPS2024-2025, ACM MM2024-2025, AAAI2024-2026, IJCAI2025-2026,</li>
   <li> Journal Reviewer: TKDE, TOIS, KBS, Neurocomputing </li>
 </ul>
@@ -107,7 +107,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 <h2>🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
-<ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
+<ul style="padding-left: 20px; margin-left: 0;">
   <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
   <li>National Scholarship, 2025</li>
   <li>National Scholarship, 2022</li>
