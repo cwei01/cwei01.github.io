@@ -14,7 +14,7 @@ redirect_from:
 📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
 🎯 My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
 
-<h2>News</h2>
+<h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
   <li>Transfer Learning: Cross-Task Transfer, Cross-Domain Transfer</li>
@@ -23,7 +23,7 @@ redirect_from:
 </ul>
 
 
-<h2>Publications</h2>
+<h2>📝 Publications</h2>
 <hr style="height:1.5px; border:none; background-color:#000;">
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
@@ -90,7 +90,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 - Journal Reviewer: KBS, Neurocomputing
 
 
-<h2>Awards</h2>
+<h2>🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 - National Scholarship, 2022
 - The Runner-up Student Paper Award in ICONIP, 2020
