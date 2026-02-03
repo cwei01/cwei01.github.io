@@ -8,11 +8,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">Profile</h2>
+<h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
-📄 I'm Chen Wei. I am currently a second-year PhD student at Beihang University, under the supervision of Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). Prior to this, I obtained my Master's degree from Chongqing University, where I was supervised by Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm). My current research interests are Natural Language Processing and  Data Mining. Please feel free to contact me via email!
+
+I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang] ((https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm)) and Prof. [Shuang Li]((https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm)).
+
+Prior to my doctoral studies, I earned my Master’s degree from Chongqing University under the supervision of Prof. [Zhongshi He](https://faculty.cqu.edu.cn/ZhongshiHe/zh_CN/index.htm).
+
+My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Model Compression, Tensor/Matrix Decomposition, Trustworthy AI, and Large Language Models (LLMs).
+
 
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
