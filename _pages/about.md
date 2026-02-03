@@ -24,7 +24,7 @@ redirect_from:
 
 
 <h2>Publications</h2>
----
+<hr style="height:1.5px; border:none; background-color:#000;">
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
