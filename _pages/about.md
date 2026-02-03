@@ -96,10 +96,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2>Services</h2>
+<h2>💬 Services</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
-- Conference Reviewer:ICML, ICLR, NeurIPS, ACM MM, IJCNN, AAAI, IJCAI, EMNLP
-- Journal Reviewer: KBS, Neurocomputing
+<ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
+  <li> Conference Reviewer: ICML2024-2026, ICLR2024-2026, NeurIPS2024-2025, ACM MM2024-2025, AAAI2024-2026, IJCAI2025-2026,</li>
+  <li> Journal Reviewer: TKDE, TOIS, KBS, Neurocomputing </li>
+</ul>
+
 
 
 <h2>🎖 Honors and Awards</h2>
