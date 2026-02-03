@@ -107,9 +107,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 <h2>🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
-- National Scholarship, 2022
-- The Runner-up Student Paper Award in ICONIP, 2020
-- The 2nd in China College Student Computer Design Competition, 2019
+<ul style="padding-left: 0; margin-left: 0; list-style-type: none;">
+  <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
+  <li>National Scholarship, 2025</li>
+  <li>National Scholarship, 2022</li>
+  <li>The Runner-up Student Paper Award in ICONIP, 2020 </li>
+  <li>The 2nd in China College Student Computer Design Competition, 2019 </li>
+</ul>
 
 
 
