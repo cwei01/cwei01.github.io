@@ -88,7 +88,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
 
-[2] **Wei Chen**, Wenxin Yu, Gang He, and et.al.  
+[2] **Wei Chen**, Wenxin Yu, Gang He, Ning Jiang and Gang He.  
   Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">ICONIP2020</span> (<span style="color:red">Runner-up Student Paper Award</span>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
 
