@@ -108,7 +108,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 <h2>🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
+  <li>Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
   <li>National Scholarship, 2025</li>
   <li>National Scholarship, 2022</li>
   <li>The Runner-up Student Paper Award in ICONIP, 2020 </li>
@@ -117,10 +117,11 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2>Others</h2>
+<h2>💻 Internships</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
-- 🎓 If you are also interested in natural language processing and data mining, you can follow my lab and lab members: [KTL](https://ktl.buaa.edu.cn/home), I love them.
-- ✨ [Zhuang Fuzhen](https://fuzhenzhuang.github.io/) is my current advisor, who focus on Transfer Learning and LLMs. He is a brilliant scientist and one of the nicest people I have ever met.
-- 🌈 I am someone who is passionate about life, with a love for football, music, and travel.
+<ul style="padding-left: 20px; margin-left: 0;">
+  <li>2024.03 - 2025.03, [Ant Group], China.</li>
+</ul>
+
 
 <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
