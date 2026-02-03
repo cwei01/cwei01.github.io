@@ -19,6 +19,8 @@ Prior to my doctoral studies, I earned my Master’s degree from Chongqing Unive
 
 My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Recommendation, Trustworthy AI, and Large Language Models (LLMs).
 
+I am looking for interdisciplinary collaborative research, including but not limited to, **AI4Science** and **multi-modal understanding**.
+
 
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
