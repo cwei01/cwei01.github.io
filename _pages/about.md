@@ -125,3 +125,15 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+  
+  body, button, input, select, textarea {
+    font-family: "Inter", sans-serif !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Inter", sans-serif !important;
+  }
+</style>
