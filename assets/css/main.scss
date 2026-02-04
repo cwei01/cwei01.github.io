@@ -20,3 +20,14 @@ $header-font-family: $sans-serif;
     line-height: 1.5 !important;
   }
 }
+/* 强制消除斜体并应用 Inter 字体 */
+.page__content, 
+.page__content p, 
+.page__content li, 
+.page__content em { 
+  font-style: normal !important; /* 强制取消斜体 */
+  font-family: "Inter", sans-serif !important;
+  font-weight: 400 !important; /* 确保使用常规字重 */
+}
+
+/* 如果你只想保留原本就是斜体的部分（比如 <em> 标签），请删除上面的 .page__content em */
