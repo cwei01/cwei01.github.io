@@ -42,7 +42,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
 **2026**
 
-[1] **Wei Chen**, Xingyu Guo, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, deqing wang, Fuzhen Zhuang.  
+[1] **Wei Chen**, Xingyu Guo, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing wang, Fuzhen Zhuang.  
 SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICML2026</span> [[paper]](https://cwei01.github.io)
 
