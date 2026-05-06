@@ -12,7 +12,6 @@ redirect_from:
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
-
 I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang](https://zhangzhaocs.github.io/) and Prof. [Shuang Li](https://shuangli.xyz/).
 
 My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Recommendation, Trustworthy AI, and Large Language Models (LLMs).
@@ -23,7 +22,6 @@ I am looking for interdisciplinary collaborative research, including but not lim
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li> 2026.04: 🎉🎉🎉 1 papers accepted by TOIS</li>
   <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
   <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
   <li> 2025.12: 🎉🎉🎉 1 paper accepted by Information Fusion</li>
@@ -41,11 +39,11 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
 **2026**
 
-[3] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
+[1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://cwei01.github.io)
 
-[4] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, Humei He.  
+[2] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, Humei He.  
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://cwei01.github.io)
 
