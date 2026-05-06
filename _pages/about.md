@@ -41,13 +41,13 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
 **2026**
 
-[1] **Wei Chen**, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang.  
-FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> [[paper]](https://cwei01.github.io)
-
-[2] **Wei Chen**<sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang.  
+[1] **Wei Chen**<sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang.  
 SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICML2026</span> [[paper]](https://cwei01.github.io)
+
+[2] **Wei Chen**, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang.  
+FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models  
+<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> [[paper]](https://cwei01.github.io)
 
 [3] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
