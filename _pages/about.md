@@ -39,7 +39,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
-**2026**
+<p style="text-align: center;"><strong>2026</strong></p>
 
 [1] **Wei Chen**<sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang.  
 SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation  
@@ -57,7 +57,7 @@ Learning Adaptive Distribution Alignment with Neural Characteristic Function for
 Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation  
 <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://cwei01.github.io)
 
-**2025**
+<p style="text-align: center;"><strong>2025</strong></p>
 
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
 FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
@@ -79,7 +79,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
-**2024**
+<p style="text-align: center;"><strong>2024</strong></p>
 
 [1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
@@ -89,7 +89,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction  
   <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
 
-**2023 and Before**
+<p style="text-align: center;"><strong>2023 and Before</strong></p>
 
 [1] **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
   A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis  
