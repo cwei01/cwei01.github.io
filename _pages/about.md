@@ -127,6 +127,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 <h2>💻 Internships</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
+  <li>2026.04 - now, [Kuaishou], China.</li>
   <li>2024.03 - 2025.03, [Ant Group], China.</li>
 </ul>
 
