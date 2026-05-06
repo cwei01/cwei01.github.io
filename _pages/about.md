@@ -23,6 +23,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
+  <li> 2026.05: 🎉🎉🎉 Our paper was featured by ICML2026</li>
   <li> 2026.05: 🎉🎉🎉 1 papers accepted by ICML2026</li>
   <li> 2026.04: 🎉🎉🎉 1 papers accepted by TOIS</li>
   <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
