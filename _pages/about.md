@@ -37,7 +37,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
-**2026**
+**20264**
 
 [1] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
