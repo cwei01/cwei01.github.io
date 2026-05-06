@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size: 1.1em;">
 <h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
 
 <hr style="height:1.5px; border:none; background-color:#000;">
@@ -134,4 +133,3 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
