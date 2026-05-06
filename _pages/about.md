@@ -23,8 +23,6 @@ I am looking for interdisciplinary collaborative research, including but not lim
 <h2>🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li> 2026.05: 🎉🎉🎉 Our paper was featured by ICML2026</li>
-  <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
   <li> 2026.04: 🎉🎉🎉 1 papers accepted by TOIS</li>
   <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
   <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
@@ -42,14 +40,6 @@ I am looking for interdisciplinary collaborative research, including but not lim
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
 **2026**
-
-[1] **Wei Chen**, Xingyu Guo, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing wang, Fuzhen Zhuang.  
-SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICML2026</span> [[paper]](https://cwei01.github.io)
-
-[2] **Wei Chen**, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang.  
-FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS2026</span> [[paper]](https://cwei01.github.io)
 
 [3] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
