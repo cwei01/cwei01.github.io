@@ -47,7 +47,7 @@ SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommenda
 
 [2] **Wei Chen**, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang.  
 FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>) [[paper]](https://cwei01.github.io)
+<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>, <span style="color:red">JCR-Q1</span>) [[paper]](https://cwei01.github.io)
 
 [3] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
 Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
@@ -61,7 +61,7 @@ Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation
 
 [1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
 FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE</span> (<span style="color:red">CCF-A</span>) [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE</span> (<span style="color:red">CCF-A</span>, <span style="color:red">JCR-Q1</span>) [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
 
 [2] **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
   FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis  
@@ -69,7 +69,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 [3] Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
   HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>) [[paper]](https://dl.acm.org/doi/10.1145/3728463)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>, <span style="color:red">JCR-Q1</span>) [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 
 [4] Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing Wang, Fuzhen Zhuang.  
   Hyperbolic Diffusion Recommender Model  
@@ -83,7 +83,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 [1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
   FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>) [[paper]](https://dl.acm.org/doi/10.1145/3638352)
+  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>, <span style="color:red">JCR-Q1</span>) [[paper]](https://dl.acm.org/doi/10.1145/3638352)
 
 [2] **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
   Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction  
