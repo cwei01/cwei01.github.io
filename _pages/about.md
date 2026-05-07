@@ -67,15 +67,19 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> (<span style="color:red">CCF-A</span>) [[paper]](https://arxiv.org/abs/2505.21040) [[code]](https://github.com/cwei01/FCKT)
 
-[3] Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
+[3] Kepeng Xu, Li Xu, Gang He, **Wei Chen**, Xianyun Wu, Wenxin Yu.  
+  Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration  
+  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> (<span style="color:red">CCF-A</span>)
+
+[4] Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
   HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TOIS</span> (<span style="color:red">CCF-A</span>, <span style="color:red">JCR-Q1</span>) [[paper]](https://dl.acm.org/doi/10.1145/3728463)
 
-[4] Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing Wang, Fuzhen Zhuang.  
+[5] Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing Wang, Fuzhen Zhuang.  
   Hyperbolic Diffusion Recommender Model  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">WWW2025</span> (<span style="color:red">CCF-A</span>) [[paper]](https://arxiv.org/pdf/2504.01541v1)
 
-[5] **Wei Chen**, Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
+[6] **Wei Chen**, Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
   Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation  
   <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> (<span style="color:red">CCF-A</span>) [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
 
