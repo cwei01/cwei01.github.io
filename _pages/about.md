@@ -28,28 +28,11 @@ redirect_from:
     margin-bottom: 6px;
   }
 
-  .page-views {
-    margin-top: 24px;
-    padding-top: 12px;
-    border-top: 1px solid #d6d6d6;
-    color: #555;
-    font-size: 13px;
-    text-align: center;
-  }
-
-  .page-views strong {
-    display: block;
-    margin-bottom: 8px;
-    color: #333;
-    font-size: 14px;
-  }
-
   #profile,
   #news,
   #publications,
   #services,
-  #honors,
-  #internships {
+  #honors {
     scroll-margin-top: 24px;
   }
 </style>
@@ -175,18 +158,3 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
   <li>The Runner-up Student Paper Award in ICONIP (ICONIP 学生论文奖亚军), 2020 </li>
   <li>The 2nd in China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖), 2019 </li>
 </ul>
-
-
-
-<h2 id="internships">Internships</h2>
-<div style="height: 1.5px; background: #000; margin: 8;"></div>
-<ul style="padding-left: 20px; margin-left: 0;">
-  <li>2026.04 - now, [Kuaishou], China.</li>
-  <li>2024.03 - 2025.03, [Ant Group], China.</li>
-</ul>
-
-
-<div class="page-views">
-  <strong>Page Views</strong>
-  <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
