@@ -55,6 +55,22 @@ redirect_from:
     margin-bottom: 6px;
   }
 
+  .page-views {
+    margin-top: 24px;
+    padding-top: 12px;
+    border-top: 1px solid #d6d6d6;
+    color: #555;
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .page-views strong {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 14px;
+  }
+
   #profile,
   #news,
   #publications,
@@ -208,4 +224,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 </ul>
 
 
-<a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<div class="page-views">
+  <strong>Page Views</strong>
+  <a href="https://info.flagcounter.com/kvwb"><img src="https://s11.flagcounter.com/count/kvwb/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
