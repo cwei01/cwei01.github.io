@@ -88,18 +88,16 @@ redirect_from:
   <a href="https://cwei01.github.io/#internships">INTERNSHIPS</a>
 </nav>
 
-<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
+<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">Profile</h2>
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
 I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang](https://zhangzhaocs.github.io/) and Prof. [Shuang Li](https://shuangli.xyz/). Our team homepage is [KTL](https://ktl.buaa.edu.cn/introduction).
 
-My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Recommendation, Trustworthy AI, and Large Language Models (LLMs).
-
-I am looking for interdisciplinary collaborative research, including but not limited to, **AI4Science** and **multi-modal understanding**.
+My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Recommendation, Trustworthy AI, and LLMs.
 
 
-<h2 id="news">🔥 News</h2>
+<h2 id="news">News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <div class="news-scroll-box">
   <ul>
@@ -118,7 +116,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 </div>
 
 
-<h2 id="publications">📝 Publications</h2>
+<h2 id="publications">Publications</h2>
 <hr style="height:1.5px; border:none; background-color:#000;">
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
@@ -191,7 +189,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2 id="services">💬 Services</h2>
+<h2 id="services">Services</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li> Conference Reviewer: International Conference on Machine Learning (ICML) 2024-2026, International Conference on Learning Representations (ICLR) 2024-2026, Conference on Neural Information Processing Systems (NeurIPS) 2024-2025, ACM International Conference on Multimedia (ACM MM) 2024-2025, AAAI Conference on Artificial Intelligence (AAAI) 2024-2026, International Joint Conference on Artificial Intelligence (IJCAI) 2025-2026</li>
@@ -200,7 +198,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2 id="honors">🎖 Honors and Awards</h2>
+<h2 id="honors">Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
@@ -214,7 +212,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2 id="internships">💻 Internships</h2>
+<h2 id="internships">Internships</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li>2026.04 - now, [Kuaishou], China.</li>
