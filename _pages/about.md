@@ -11,15 +11,18 @@ redirect_from:
 <style>
   .home-section-nav {
     display: flex;
-    flex-wrap: wrap;
-    gap: 18px;
-    margin: -8px 0 10px;
+    flex-wrap: nowrap;
+    gap: 22px;
+    margin: -12px 0 12px;
+    overflow-x: auto;
+    white-space: nowrap;
   }
 
   .home-section-nav a {
+    flex: 0 0 auto;
     display: inline-block;
     color: #333;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 1.2;
     text-transform: uppercase;
@@ -77,12 +80,12 @@ redirect_from:
 </style>
 
 <nav class="home-section-nav" aria-label="Homepage sections">
-  <a href="#profile">PROFILE</a>
-  <a href="#news">NEWS</a>
-  <a href="#publications">PUBLICATIONS</a>
-  <a href="#services">SERVICES</a>
-  <a href="#honors">HONORS</a>
-  <a href="#internships">INTERNSHIPS</a>
+  <a href="https://cwei01.github.io/#profile">PROFILE</a>
+  <a href="https://cwei01.github.io/#news">NEWS</a>
+  <a href="https://cwei01.github.io/#publications">PUBLICATIONS</a>
+  <a href="https://cwei01.github.io/#services">SERVICES</a>
+  <a href="https://cwei01.github.io/#honors">HONORS</a>
+  <a href="https://cwei01.github.io/#internships">INTERNSHIPS</a>
 </nav>
 
 <h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
