@@ -13,7 +13,7 @@ redirect_from:
     display: flex;
     flex-wrap: nowrap;
     gap: 22px;
-    margin: -28px 0 12px;
+    margin: -70px 0 12px;
     overflow-x: auto;
     white-space: nowrap;
   }
@@ -22,7 +22,7 @@ redirect_from:
     flex: 0 0 auto;
     display: inline-block;
     color: #333;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.2;
     text-decoration: none;
