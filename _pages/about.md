@@ -94,7 +94,7 @@ redirect_from:
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
-I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang](https://zhangzhaocs.github.io/) and Prof. [Shuang Li](https://shuangli.xyz/).
+I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang](https://zhangzhaocs.github.io/) and Prof. [Shuang Li](https://shuangli.xyz/). Our team homepage is [KTL](https://ktl.buaa.edu.cn/introduction).
 
 My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in Graph Learning, Recommendation, Trustworthy AI, and Large Language Models (LLMs).
 
