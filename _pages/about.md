@@ -36,6 +36,25 @@ redirect_from:
     text-decoration: none;
   }
 
+  .news-scroll-box {
+    max-height: 180px;
+    overflow-y: auto;
+    margin: 8px 0 18px;
+    padding: 8px 12px;
+    border: 1px solid #d6d6d6;
+    border-radius: 4px;
+    background: #fafafa;
+  }
+
+  .news-scroll-box ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  .news-scroll-box li {
+    margin-bottom: 6px;
+  }
+
   #profile,
   #news,
   #publications,
@@ -68,17 +87,19 @@ I am looking for interdisciplinary collaborative research, including but not lim
 
 <h2 id="news">🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
-<ul style="padding-left: 20px; margin-left: 0;">
-  <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
-  <li> 2026.04: 🎉🎉🎉 1 paper accepted by TOIS</li>
-  <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
-  <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
-  <li> 2025.12: 🎉🎉🎉 1 paper accepted by Information Fusion</li>
-  <li> 2025.10: 🎉🎉🎉 Received National Scholarship</li>
-  <li> 2025.06: 🎉🎉🎉 1 paper accepted by TKDE</li>
-  <li> 2025.05: 🎉🎉🎉 2 papers accepted by IJCAI2025</li>
-  <li> 2024.12: 🎉🎉🎉 1 paper accepted by AAAI2025</li>
-</ul>
+<div class="news-scroll-box">
+  <ul>
+    <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
+    <li> 2026.04: 🎉🎉🎉 1 paper accepted by TOIS</li>
+    <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
+    <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
+    <li> 2025.12: 🎉🎉🎉 1 paper accepted by Information Fusion</li>
+    <li> 2025.10: 🎉🎉🎉 Received National Scholarship</li>
+    <li> 2025.06: 🎉🎉🎉 1 paper accepted by TKDE</li>
+    <li> 2025.05: 🎉🎉🎉 2 papers accepted by IJCAI2025</li>
+    <li> 2024.12: 🎉🎉🎉 1 paper accepted by AAAI2025</li>
+  </ul>
+</div>
 
 
 <h2 id="publications">📝 Publications</h2>
@@ -166,6 +187,8 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 <h2 id="honors">🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
+  <li>Beihang Excellent Academic Fund, 2026</li>
+  <li>Outstanding Graduate Student of Beihang University, 2026</li>
   <li>Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
   <li>National Scholarship, 2025</li>
   <li>National Scholarship, 2022</li>
