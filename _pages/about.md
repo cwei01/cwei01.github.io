@@ -8,7 +8,54 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
+<style>
+  .home-section-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 4px 0 18px;
+  }
+
+  .home-section-nav a {
+    display: inline-block;
+    padding: 6px 12px;
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+    background: #f8f8f8;
+    color: #333;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-decoration: none;
+  }
+
+  .home-section-nav a:hover {
+    border-color: #333;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  #profile,
+  #news,
+  #publications,
+  #services,
+  #honors,
+  #internships {
+    scroll-margin-top: 24px;
+  }
+</style>
+
+<nav class="home-section-nav" aria-label="Homepage sections">
+  <a href="#profile">Profile</a>
+  <a href="#news">News</a>
+  <a href="#publications">Publications</a>
+  <a href="#services">Services</a>
+  <a href="#honors">Honors</a>
+  <a href="#internships">Internships</a>
+</nav>
+
+<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
@@ -19,7 +66,7 @@ My research interests focus on advancing the efficiency and reliability of machi
 I am looking for interdisciplinary collaborative research, including but not limited to, **AI4Science** and **multi-modal understanding**.
 
 
-<h2>🔥 News</h2>
+<h2 id="news">🔥 News</h2>
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
@@ -34,7 +81,7 @@ I am looking for interdisciplinary collaborative research, including but not lim
 </ul>
 
 
-<h2>📝 Publications</h2>
+<h2 id="publications">📝 Publications</h2>
 <hr style="height:1.5px; border:none; background-color:#000;">
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
@@ -107,7 +154,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2>💬 Services</h2>
+<h2 id="services">💬 Services</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li> Conference Reviewer: ICML2024-2026, ICLR2024-2026, NeurIPS2024-2025, ACM MM2024-2025, AAAI2024-2026, IJCAI2025-2026,</li>
@@ -116,7 +163,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2>🎖 Honors and Awards</h2>
+<h2 id="honors">🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li>Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
@@ -128,7 +175,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2>💻 Internships</h2>
+<h2 id="internships">💻 Internships</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li>2026.04 - now, [Kuaishou], China.</li>
