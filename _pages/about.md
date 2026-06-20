@@ -37,7 +37,7 @@ redirect_from:
   }
 
   .news-scroll-box {
-    max-height: 250px;
+    max-height: 400px;
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
@@ -180,8 +180,8 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 <h2 id="services">💬 Services</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li> Conference Reviewer: ICML2024-2026, ICLR2024-2026, NeurIPS2024-2025, ACM MM2024-2025, AAAI2024-2026, IJCAI2025-2026,</li>
-  <li> Journal Reviewer: TKDE, TOIS, KBS, Neurocomputing </li>
+  <li> Conference Reviewer: International Conference on Machine Learning (ICML) 2024-2026, International Conference on Learning Representations (ICLR) 2024-2026, Conference on Neural Information Processing Systems (NeurIPS) 2024-2025, ACM International Conference on Multimedia (ACM MM) 2024-2025, AAAI Conference on Artificial Intelligence (AAAI) 2024-2026, International Joint Conference on Artificial Intelligence (IJCAI) 2025-2026</li>
+  <li> Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), Knowledge-Based Systems (KBS), Neurocomputing </li>
 </ul>
 
 
