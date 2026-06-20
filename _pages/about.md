@@ -9,30 +9,6 @@ redirect_from:
   - /about.html
 ---
 <style>
-  .home-section-nav {
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 22px;
-    margin: -70px 0 12px;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
-  .home-section-nav a {
-    flex: 0 0 auto;
-    display: inline-block;
-    color: #333;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.2;
-    text-decoration: none;
-  }
-
-  .home-section-nav a:hover {
-    color: #000;
-    text-decoration: underline;
-  }
-
   .news-scroll-box {
     max-height: 400px;
     overflow-y: auto;
@@ -77,15 +53,6 @@ redirect_from:
     scroll-margin-top: 24px;
   }
 </style>
-
-<nav class="home-section-nav" aria-label="Homepage sections">
-  <a href="https://cwei01.github.io/#profile">Profile</a>
-  <a href="https://cwei01.github.io/#news">News</a>
-  <a href="https://cwei01.github.io/#publications">Publications</a>
-  <a href="https://cwei01.github.io/#services">Services</a>
-  <a href="https://cwei01.github.io/#honors">Honors</a>
-  <a href="https://cwei01.github.io/#internships">Internships</a>
-</nav>
 
 <h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">Profile</h2>
 
