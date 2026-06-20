@@ -37,7 +37,7 @@ redirect_from:
   }
 
   .news-scroll-box {
-    max-height: 180px;
+    max-height: 250px;
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
@@ -89,6 +89,8 @@ I am looking for interdisciplinary collaborative research, including but not lim
 <div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <div class="news-scroll-box">
   <ul>
+    <li> 2026.06: 🎉🎉🎉 Received the Beihang Excellent Academic Fund</li>
+    <li> 2026.06: 🎉🎉🎉 Awarded Outstanding Graduate Student of Beihang University</li>
     <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
     <li> 2026.04: 🎉🎉🎉 1 paper accepted by TOIS</li>
     <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
@@ -187,13 +189,13 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 <h2 id="honors">🎖 Honors and Awards</h2>
 <div style="height: 1.5px; background: #000; margin: 8;"></div>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li>Beihang Excellent Academic Fund, 2026</li>
-  <li>Outstanding Graduate Student of Beihang University, 2026</li>
-  <li>Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
-  <li>National Scholarship, 2025</li>
-  <li>National Scholarship, 2022</li>
-  <li>The Runner-up Student Paper Award in ICONIP, 2020 </li>
-  <li>The 2nd in China College Student Computer Design Competition, 2019 </li>
+  <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
+  <li>Outstanding Graduate Student of Beihang University (北航优秀研究生), 2026</li>
+  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划), 2025</li>
+  <li>National Scholarship (国家奖学金), 2025</li>
+  <li>National Scholarship (国家奖学金), 2022</li>
+  <li>The Runner-up Student Paper Award in ICONIP (ICONIP 学生论文奖亚军), 2020 </li>
+  <li>The 2nd in China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖), 2019 </li>
 </ul>
 
 
