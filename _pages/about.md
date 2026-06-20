@@ -37,7 +37,7 @@ redirect_from:
   }
 </style>
 
-<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">Profile</h2>
+<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">Biography</h2>
 
 <hr style="height:1.5px; border:none; background-color:#000;">
 
