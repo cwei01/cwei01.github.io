@@ -12,28 +12,23 @@ redirect_from:
   .home-section-nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
-    margin: 4px 0 18px;
+    gap: 18px;
+    margin: -8px 0 10px;
   }
 
   .home-section-nav a {
     display: inline-block;
-    padding: 6px 12px;
-    border: 1px solid #bdbdbd;
-    border-radius: 4px;
-    background: #f8f8f8;
     color: #333;
-    font-size: 14px;
-    font-weight: 600;
+    font-size: 13px;
+    font-weight: 700;
     line-height: 1.2;
+    text-transform: uppercase;
     text-decoration: none;
   }
 
   .home-section-nav a:hover {
-    border-color: #333;
-    background: #333;
-    color: #fff;
-    text-decoration: none;
+    color: #000;
+    text-decoration: underline;
   }
 
   .news-scroll-box {
@@ -82,12 +77,12 @@ redirect_from:
 </style>
 
 <nav class="home-section-nav" aria-label="Homepage sections">
-  <a href="#profile">Profile</a>
-  <a href="#news">News</a>
-  <a href="#publications">Publications</a>
-  <a href="#services">Services</a>
-  <a href="#honors">Honors</a>
-  <a href="#internships">Internships</a>
+  <a href="#profile">PROFILE</a>
+  <a href="#news">NEWS</a>
+  <a href="#publications">PUBLICATIONS</a>
+  <a href="#services">SERVICES</a>
+  <a href="#honors">HONORS</a>
+  <a href="#internships">INTERNSHIPS</a>
 </nav>
 
 <h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">📄 Profile</h2>
