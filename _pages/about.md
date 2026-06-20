@@ -14,9 +14,9 @@ redirect_from:
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
-    border: 1px solid #d6d6d6;
+    border: 1px solid #eeeeee;
     border-radius: 4px;
-    background: #fafafa;
+    background: #fdfdfd;
   }
 
   .news-scroll-box ul {
