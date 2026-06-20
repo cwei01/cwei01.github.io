@@ -10,7 +10,7 @@ redirect_from:
 ---
 <style>
   .news-scroll-box {
-    max-height: 400px;
+    max-height: 300px;
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
