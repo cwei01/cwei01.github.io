@@ -59,8 +59,8 @@ redirect_from:
   }
 
   .publication-list {
-    margin: 0 0 1.2em 1.15em;
-    padding-left: 0.8em;
+    margin: 0 0 1.2em 0;
+    padding-left: 1em;
     list-style-type: square;
   }
 
