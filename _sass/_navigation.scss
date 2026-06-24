@@ -182,6 +182,7 @@
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
+    font-weight: 700;
     text-decoration: none;
 
     &:hover {
@@ -207,7 +208,6 @@
     li {
       display: table-cell;
       vertical-align: middle;
-      font-weight: 700;
 
       &:first-child {
         font-weight: bold;
