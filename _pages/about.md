@@ -13,7 +13,7 @@ redirect_from:
     max-height: 135px;
     overflow-y: auto;
     margin: 8px 0 18px;
-    padding: 8px 12px;
+    padding: 8px 0;
     border: 0;
     background: #fff;
   }
