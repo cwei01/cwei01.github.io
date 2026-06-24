@@ -35,11 +35,68 @@ redirect_from:
   #honors {
     scroll-margin-top: 24px;
   }
+
+  .page__content h2 {
+    color: #527bbd;
+    font-size: 1.8em;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 1.35em 0 0.45em;
+    padding-bottom: 0.08em;
+    border-bottom: 1px solid #b9b9b9;
+  }
+
+  .page__content h2:first-of-type {
+    margin-top: 10px;
+  }
+
+  .page__content ul {
+    list-style-type: square;
+  }
+
+  .publication-year {
+    margin: 1.1em 0 0.5em;
+    text-align: center;
+  }
+
+  .publication-list {
+    margin: 0 0 1.2em 1.15em;
+    padding-left: 0.8em;
+    list-style-type: square;
+  }
+
+  .publication-list li {
+    margin-bottom: 1em;
+    line-height: 1.18;
+  }
+
+  .publication-title {
+    color: #315a9c;
+    font-weight: 700;
+  }
+
+  .publication-authors,
+  .publication-venue {
+    display: block;
+  }
+
+  .publication-links a {
+    color: #315a9c;
+    font-weight: 700;
+    text-decoration: none !important;
+  }
+
+  .publication-links a:hover {
+    text-decoration: underline !important;
+  }
+
+  .publication-note {
+    display: block;
+    color: red;
+  }
 </style>
 
-<h2 id="profile" style="font-size: 20px; font-weight: 700; margin-top: 10px;">Biography</h2>
-
-<hr style="height:1.5px; border:none; background-color:#000;">
+<h2 id="profile">Biography</h2>
 
 I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. [Fuzhen Zhuang](https://fuzhenzhuang.github.io/). I also maintain close research collaborations with Prof. [Zhao Zhang](https://zhangzhaocs.github.io/) and Prof. [Shuang Li](https://shuangli.xyz/). Our team homepage is [KTL](https://ktl.buaa.edu.cn/introduction).
 
@@ -47,7 +104,6 @@ My research interests focus on advancing the efficiency and reliability of machi
 
 
 <h2 id="news">News</h2>
-<div style="height: 1.5px; background: #000; margin: 8px 0;"></div>
 <div class="news-scroll-box">
   <ul>
     <li> 2026.06: 🎉🎉🎉 Received the Beihang Excellent Academic Fund</li>
@@ -66,80 +122,97 @@ My research interests focus on advancing the efficiency and reliability of machi
 
 
 <h2 id="publications">Publications</h2>
-<hr style="height:1.5px; border:none; background-color:#000;">
 
  A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=9CbQR44AAAAJ&hl=en). # denotes co-first author.
 
-<p style="text-align: center;"><strong>2026</strong></p>
+<p class="publication-year"><strong>2026</strong></p>
+<ul class="publication-list">
+  <li>
+    <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
+    <span class="publication-authors"><strong>Wei Chen</strong><sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang</span>
+    <span class="publication-venue">International Conference on Machine Learning (<strong>ICML 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang</span>
+    <span class="publication-venue">ACM Transactions on Information Systems (<strong>TOIS</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang</span>
+    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, Humei He</span>
+    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+  </li>
+</ul>
 
-[1] **Wei Chen**<sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang.  
-SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICML2026</span> [[paper]](https://cwei01.github.io)
+<p class="publication-year"><strong>2025</strong></p>
+<ul class="publication-list">
+  <li>
+    <span class="publication-title">FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu</span>
+    <span class="publication-venue">IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>) <span class="publication-links">[<a href="https://arxiv.org/pdf/2410.17555">paper</a>] [<a href="https://github.com/cwei01/FairDgcl">code</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang</span>
+    <span class="publication-venue">International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>) <span class="publication-links">[<a href="https://arxiv.org/abs/2505.21040">paper</a>] [<a href="https://github.com/cwei01/FCKT">code</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration</span>
+    <span class="publication-authors">Kepeng Xu, Li Xu, Gang He, <strong>Wei Chen</strong>, Xianyun Wu, Wenxin Yu</span>
+    <span class="publication-venue">International Joint Conference on Artificial Intelligence (<strong>IJCAI 2025</strong>)</span>
+  </li>
+  <li>
+    <span class="publication-title">HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation</span>
+    <span class="publication-authors">Meng Yuan, Zhao Zhang, <strong>Wei Chen</strong>, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang</span>
+    <span class="publication-venue">ACM Transactions on Information Systems (<strong>TOIS</strong>) <span class="publication-links">[<a href="https://dl.acm.org/doi/10.1145/3728463">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Hyperbolic Diffusion Recommender Model</span>
+    <span class="publication-authors">Meng Yuan, Yutian Xiao, <strong>Wei Chen</strong>, Chu Zhao, Deqing Wang, Fuzhen Zhuang</span>
+    <span class="publication-venue">The ACM Web Conference (<strong>WWW 2025</strong>) <span class="publication-links">[<a href="https://arxiv.org/pdf/2504.01541v1">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang</span>
+    <span class="publication-venue">AAAI Conference on Artificial Intelligence (<strong>AAAI 2025</strong>) <span class="publication-links">[<a href="https://arxiv.org/abs/2412.11654">paper</a>] [<a href="https://github.com/cwei01/TDSS">code</a>]</span></span>
+  </li>
+</ul>
 
-[2] **Wei Chen**, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang.  
-FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> [[paper]](https://cwei01.github.io)
+<p class="publication-year"><strong>2024</strong></p>
+<ul class="publication-list">
+  <li>
+    <span class="publication-title">FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia</span>
+    <span class="publication-venue">ACM Transactions on Information Systems (<strong>TOIS</strong>) <span class="publication-links">[<a href="https://dl.acm.org/doi/10.1145/3638352">paper</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong</span>
+    <span class="publication-venue">AAAI Conference on Artificial Intelligence (<strong>AAAI 2024</strong>) <span class="publication-links">[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29731">paper</a>] [<a href="https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA">code</a>]</span></span>
+  </li>
+</ul>
 
-[3] **Wei Chen**, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang.  
-Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://cwei01.github.io)
-
-[4] **Wei Chen**, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, Humei He.  
-Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation  
-<span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">ICLR2026</span> [[paper]](https://cwei01.github.io)
-
-<p style="text-align: center;"><strong>2025</strong></p>
-
-[1] **Wei Chen**, Meng Yuan, Zhao Zhang, Ruobing Xie, Fuzhen Zhuang, Deqing Wang, Rui Liu.  
-FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TKDE</span> [[paper]](https://arxiv.org/pdf/2410.17555) [[code]](https://github.com/cwei01/FairDgcl)
-
-[2] **Wei Chen**, Zhao Zhang, Meng Yuan, Kepeng Xu, Fuzhen Zhuang.  
-  FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span> [[paper]](https://arxiv.org/abs/2505.21040) [[code]](https://github.com/cwei01/FCKT)
-
-[3] Kepeng Xu, Li Xu, Gang He, **Wei Chen**, Xianyun Wu, Wenxin Yu.  
-  Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">IJCAI2025</span>
-
-[4] Meng Yuan, Zhao Zhang, **Wei Chen**, Chu Zhao, Tong Cai, Deqing Wang, Rui Liu, Fuzhen Zhuang.  
-  HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">TOIS</span> [[paper]](https://dl.acm.org/doi/10.1145/3728463)
-
-[5] Meng Yuan, Yutian Xiao, **Wei Chen**, Chu Zhao, Deqing Wang, Fuzhen Zhuang.  
-  Hyperbolic Diffusion Recommender Model  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">WWW2025</span> [[paper]](https://arxiv.org/pdf/2504.01541v1)
-
-[6] **Wei Chen**, Guo Ye, Yakun Wang, Zhao Zhang, Libang Zhang, Daixin Wang, Zhiqiang Zhang, Fuzhen Zhuang.  
-  Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 2px; border-radius: 1px; font-weight: 0.6em;">AAAI2025</span> [[paper]](https://arxiv.org/abs/2412.11654) [[code]](https://github.com/cwei01/TDSS)
-
-<p style="text-align: center;"><strong>2024</strong></p>
-
-[1] **Wei Chen**, Yiqing Wu, Zhao Zhang, Fuzhen Zhuang, Zhongshi He, Ruobin Xie, Feng Xia.  
-  FairGap: Fairness-aware Recommendation via Generating Counterfactual Graph  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">TOIS</span> [[paper]](https://dl.acm.org/doi/10.1145/3638352)
-
-[2] **Wei Chen**, Yuxuan Liu, Zhao Zhang, Fuzhen Zhuang, Jiang Zhong.  
-  Modeling Adaptive Inter-Task Feature Interactions via Sentiment-Aware Contrastive Learning for Joint Aspect-Sentiment Prediction  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px; border-radius: 2px; font-weight: 0.6em;">AAAI2024</span> [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29731) [[code]](https://github.com/sugarfreeLiuYuXuan/AIFI-for-ABSA)
-
-<p style="text-align: center;"><strong>2023 and Before</strong></p>
-
-[1] **Wei Chen**, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He.  
-  A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">COLING2022</span> [[paper]](https://aclanthology.org/2022.coling-1.611/) [[code]](cwei01/hi-asa)  
-
-[2] **Wei Chen**, Wenxin Yu, Gang He, Ning Jiang and Gang He.  
-  Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification  
-  <span style="background-color: #1E90FF; color: white; padding: 1px 4px;  border-radius: 2px; font-weight: 0.6em;">ICONIP2020</span> (<span style="color:red">Runner-up Student Paper Award</span>) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59)
-
-
+<p class="publication-year"><strong>2023 and Before</strong></p>
+<ul class="publication-list">
+  <li>
+    <span class="publication-title">A Hierarchical Interactive Network for Joint Span-based Aspect-Sentiment Analysis</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Jinglong Du, Zhao Zhang, Fuzhen Zhuang and Zhongshi He</span>
+    <span class="publication-venue">International Conference on Computational Linguistics (<strong>COLING 2022</strong>) <span class="publication-links">[<a href="https://aclanthology.org/2022.coling-1.611/">paper</a>] [<a href="cwei01/hi-asa">code</a>]</span></span>
+  </li>
+  <li>
+    <span class="publication-title">Coarse-to-Fine Attention Network via Opinion Approximate Representation for Aspect-Level Sentiment Classification</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Wenxin Yu, Gang He, Ning Jiang and Gang He</span>
+    <span class="publication-venue">International Conference on Neural Information Processing (<strong>ICONIP 2020</strong>) <span class="publication-note">Runner-up Student Paper Award</span> <span class="publication-links">[<a href="https://link.springer.com/chapter/10.1007/978-3-030-63830-6_59">paper</a>]</span></span>
+  </li>
+</ul>
 
 
-
-<h2 id="services">Services</h2>
-<div style="height: 1.5px; background: #000; margin: 8;"></div>
+<h2 id="services">学术服务</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li> Conference Reviewer: International Conference on Machine Learning (ICML) 2024-2026, International Conference on Learning Representations (ICLR) 2024-2026, Conference on Neural Information Processing Systems (NeurIPS) 2024-2025, ACM International Conference on Multimedia (ACM MM) 2024-2025, AAAI Conference on Artificial Intelligence (AAAI) 2024-2026, International Joint Conference on Artificial Intelligence (IJCAI) 2025-2026</li>
   <li> Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), Knowledge-Based Systems (KBS), Neurocomputing </li>
@@ -147,8 +220,7 @@ FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning
 
 
 
-<h2 id="honors">Honors and Awards</h2>
-<div style="height: 1.5px; background: #000; margin: 8;"></div>
+<h2 id="honors">Honors</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
   <li>Outstanding Graduate Student of Beihang University (北航优秀研究生), 2026</li>
