@@ -72,7 +72,7 @@ redirect_from:
 
   .publication-title {
     color: #315a9c;
-    font-weight: 700;
+    font-weight: 400;
   }
 
   .publication-authors,
