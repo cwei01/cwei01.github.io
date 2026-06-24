@@ -14,8 +14,7 @@ redirect_from:
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
-    border: 1px solid #eeeeee;
-    border-radius: 4px;
+    border: 0;
     background: #fff;
   }
 
@@ -38,7 +37,7 @@ redirect_from:
 
   .page__content h2 {
     color: #527bbd;
-    font-size: 1.45em;
+    font-size: 1.35em;
     font-weight: 700;
     line-height: 1.1;
     margin: 1.35em 0 0.45em;
@@ -226,7 +225,7 @@ My research interests focus on advancing the **efficiency and reliability of mac
   <li><strong>2026.05</strong> Outstanding Graduate Student of Beihang University (北航优秀研究生)</li>
   <li><strong>2025.12</strong> Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划)</li>
   <li><strong>2025.10</strong> National Scholarship (国家奖学金)</li>
-  <li><strong>2025.10</strong> National Scholarship (国家奖学金)</li>
+  <li><strong>2022.10</strong> National Scholarship (国家奖学金)</li>
   <li><strong>2020.12</strong> Runner-up Student Paper Award at ICONIP (ICONIP 学生论文奖亚军)</li>
   <li><strong>2019.09</strong> Second Prize in the China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖)</li>
 </ul>
