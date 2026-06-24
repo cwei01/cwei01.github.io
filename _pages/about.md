@@ -10,7 +10,7 @@ redirect_from:
 ---
 <style>
   .news-scroll-box {
-    max-height: 8.6em;
+    max-height: 135px;
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
@@ -222,11 +222,11 @@ My research interests focus on advancing the efficiency and reliability of machi
 
 <h2 id="honors">Honors</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
-  <li>Outstanding Graduate Student of Beihang University (北航优秀研究生), 2026</li>
-  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划), 2025</li>
-  <li>National Scholarship (国家奖学金), 2025</li>
-  <li>National Scholarship (国家奖学金), 2022</li>
-  <li>Runner-up Student Paper Award at ICONIP (ICONIP 学生论文奖亚军), 2020</li>
-  <li>Second Prize in the China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖), 2019</li>
+  <li><strong>2026.06</strong> Beihang Excellent Academic Fund (北航卓越学术基金)</li>
+  <li><strong>2026.05</strong> Outstanding Graduate Student of Beihang University (北航优秀研究生)</li>
+  <li><strong>2025.12</strong> Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划)</li>
+  <li><strong>2025.10</strong> National Scholarship (国家奖学金)</li>
+  <li><strong>2025.10</strong> National Scholarship (国家奖学金)</li>
+  <li><strong>2020.12</strong> Runner-up Student Paper Award at ICONIP (ICONIP 学生论文奖亚军)</li>
+  <li><strong>2019.09</strong> Second Prize in the China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖)</li>
 </ul>
