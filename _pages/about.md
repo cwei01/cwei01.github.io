@@ -10,13 +10,13 @@ redirect_from:
 ---
 <style>
   .news-scroll-box {
-    max-height: 300px;
+    max-height: 8.6em;
     overflow-y: auto;
     margin: 8px 0 18px;
     padding: 8px 12px;
     border: 1px solid #eeeeee;
     border-radius: 4px;
-    background: #fdfdfd;
+    background: #fff;
   }
 
   .news-scroll-box ul {
@@ -81,7 +81,7 @@ redirect_from:
   }
 
   .publication-links a {
-    color: #315a9c;
+    color: #527bbd;
     font-weight: 700;
     text-decoration: none !important;
   }
@@ -106,17 +106,17 @@ My research interests focus on advancing the efficiency and reliability of machi
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
-    <li> 2026.06: 🎉🎉🎉 Received the Beihang Excellent Academic Fund</li>
-    <li> 2026.06: 🎉🎉🎉 Awarded Outstanding Graduate Student of Beihang University</li>
-    <li> 2026.05: 🎉🎉🎉 1 paper accepted by ICML2026</li>
-    <li> 2026.04: 🎉🎉🎉 1 paper accepted by TOIS</li>
-    <li> 2026.01: 🎉🎉🎉 2 papers accepted by ICLR2026</li>
-    <li> 2025.12: 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
-    <li> 2025.12: 🎉🎉🎉 1 paper accepted by Information Fusion</li>
-    <li> 2025.10: 🎉🎉🎉 Received National Scholarship</li>
-    <li> 2025.06: 🎉🎉🎉 1 paper accepted by TKDE</li>
-    <li> 2025.05: 🎉🎉🎉 2 papers accepted by IJCAI2025</li>
-    <li> 2024.12: 🎉🎉🎉 1 paper accepted by AAAI2025</li>
+    <li><strong>2026.06:</strong> 🎉🎉🎉 Received the Beihang Excellent Academic Fund</li>
+    <li><strong>2026.06:</strong> 🎉🎉🎉 Awarded Outstanding Graduate Student of Beihang University</li>
+    <li><strong>2026.05:</strong> 🎉🎉🎉 1 paper accepted by ICML2026</li>
+    <li><strong>2026.04:</strong> 🎉🎉🎉 1 paper accepted by TOIS</li>
+    <li><strong>2026.01:</strong> 🎉🎉🎉 2 papers accepted by ICLR2026</li>
+    <li><strong>2025.12:</strong> 🎉🎉🎉 Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
+    <li><strong>2025.12:</strong> 🎉🎉🎉 1 paper accepted by Information Fusion</li>
+    <li><strong>2025.10:</strong> 🎉🎉🎉 Received National Scholarship</li>
+    <li><strong>2025.06:</strong> 🎉🎉🎉 1 paper accepted by TKDE</li>
+    <li><strong>2025.05:</strong> 🎉🎉🎉 2 papers accepted by IJCAI2025</li>
+    <li><strong>2024.12:</strong> 🎉🎉🎉 1 paper accepted by AAAI2025</li>
   </ul>
 </div>
 
@@ -222,11 +222,11 @@ My research interests focus on advancing the efficiency and reliability of machi
 
 <h2 id="honors">Honors</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li>Beihang Excellent Academic Fund, 2026</li>
-  <li>Outstanding Graduate Student of Beihang University, 2026</li>
-  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program, 2025</li>
-  <li>National Scholarship, 2025</li>
-  <li>National Scholarship, 2022</li>
-  <li>Runner-up Student Paper Award at ICONIP, 2020</li>
-  <li>Second Prize in the China College Student Computer Design Competition, 2019</li>
+  <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
+  <li>Outstanding Graduate Student of Beihang University (北航优秀研究生), 2026</li>
+  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划), 2025</li>
+  <li>National Scholarship (国家奖学金), 2025</li>
+  <li>National Scholarship (国家奖学金), 2022</li>
+  <li>Runner-up Student Paper Award at ICONIP (ICONIP 学生论文奖亚军), 2020</li>
+  <li>Second Prize in the China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖), 2019</li>
 </ul>
