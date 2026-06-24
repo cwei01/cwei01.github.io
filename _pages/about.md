@@ -37,7 +37,7 @@ redirect_from:
 
   .page__content h2 {
     color: #527bbd;
-    font-size: 1.35em;
+    font-size: 1.30em;
     font-weight: 700;
     line-height: 1.1;
     margin: 1.35em 0 0.45em;
