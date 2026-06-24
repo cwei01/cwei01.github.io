@@ -38,7 +38,7 @@ redirect_from:
 
   .page__content h2 {
     color: #527bbd;
-    font-size: 1.8em;
+    font-size: 1.45em;
     font-weight: 700;
     line-height: 1.1;
     margin: 1.35em 0 0.45em;
@@ -212,7 +212,7 @@ My research interests focus on advancing the efficiency and reliability of machi
 </ul>
 
 
-<h2 id="services">学术服务</h2>
+<h2 id="services">Academic Services</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
   <li> Conference Reviewer: International Conference on Machine Learning (ICML) 2024-2026, International Conference on Learning Representations (ICLR) 2024-2026, Conference on Neural Information Processing Systems (NeurIPS) 2024-2025, ACM International Conference on Multimedia (ACM MM) 2024-2025, AAAI Conference on Artificial Intelligence (AAAI) 2024-2026, International Joint Conference on Artificial Intelligence (IJCAI) 2025-2026</li>
   <li> Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), Knowledge-Based Systems (KBS), Neurocomputing </li>
@@ -222,11 +222,11 @@ My research interests focus on advancing the efficiency and reliability of machi
 
 <h2 id="honors">Honors</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
-  <li>Beihang Excellent Academic Fund (北航卓越学术基金), 2026</li>
-  <li>Outstanding Graduate Student of Beihang University (北航优秀研究生), 2026</li>
-  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划), 2025</li>
-  <li>National Scholarship (国家奖学金), 2025</li>
-  <li>National Scholarship (国家奖学金), 2022</li>
-  <li>The Runner-up Student Paper Award in ICONIP (ICONIP 学生论文奖亚军), 2020 </li>
-  <li>The 2nd in China College Student Computer Design Competition (中国大学生计算机设计大赛二等奖), 2019 </li>
+  <li>Beihang Excellent Academic Fund, 2026</li>
+  <li>Outstanding Graduate Student of Beihang University, 2026</li>
+  <li>Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program, 2025</li>
+  <li>National Scholarship, 2025</li>
+  <li>National Scholarship, 2022</li>
+  <li>Runner-up Student Paper Award at ICONIP, 2020</li>
+  <li>Second Prize in the China College Student Computer Design Competition, 2019</li>
 </ul>
