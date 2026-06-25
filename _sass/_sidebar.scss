@@ -84,10 +84,8 @@
 
   img {
     width: 100%;
-    aspect-ratio: 1 / 1;
     height: auto;
     max-width: 100%;
-    object-fit: cover;
     border-radius: 0;
 
     @include breakpoint($large) {
