@@ -15,10 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">
-      <span class="author__name-en">{{ author.name }}</span>
-      {% if author.name_zh %}<span class="author__name-cn">（{{ author.name_zh }}）</span>{% endif %}
-    </h3>
+    <h3 class="author__name"><span class="author__name-en">{{ author.name }}</span>{% if author.name_zh %}<span class="author__name-cn">（{{ author.name_zh }}）</span>{% endif %}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
