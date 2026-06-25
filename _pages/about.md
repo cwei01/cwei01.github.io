@@ -110,13 +110,13 @@ My research interests focus on advancing the efficiency and reliability of machi
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
     <li><strong>2026.05:</strong> 1 paper accepted by ICML 2026</li>
     <li><strong>2026.04:</strong> 1 paper accepted by TOIS</li>
-    <li><strong>2026.01:</strong> 2 papers accepted by ICLR2026</li>
+    <li><strong>2026.01:</strong> 2 papers accepted by ICLR 2026</li>
     <li><strong>2025.12:</strong> Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>
     <li><strong>2025.12:</strong> 1 paper accepted by Information Fusion</li>
     <li><strong>2025.10:</strong> Received National Scholarship</li>
     <li><strong>2025.06:</strong> 1 paper accepted by TKDE</li>
-    <li><strong>2025.05:</strong> 2 papers accepted by IJCAI2025</li>
-    <li><strong>2024.12:</strong> 1 paper accepted by AAAI2025</li>
+    <li><strong>2025.05:</strong> 2 papers accepted by IJCAI 2025</li>
+    <li><strong>2024.12:</strong> 1 paper accepted by AAAI 2025</li>
   </ul>
 </div>
 
