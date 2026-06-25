@@ -1,4 +1,33 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  (function() {
+    var nav = document.getElementById('site-nav');
+    if (!nav) {
+      return;
+    }
+
+    var visibleLinks = nav.querySelector('.visible-links');
+    var hiddenLinks = nav.querySelector('.hidden-links');
+    var button = nav.querySelector('button');
+
+    function keepMastheadInline() {
+      while (hiddenLinks && hiddenLinks.firstElementChild) {
+        visibleLinks.appendChild(hiddenLinks.firstElementChild);
+      }
+      if (hiddenLinks) {
+        hiddenLinks.classList.add('hidden');
+      }
+      if (button) {
+        button.classList.add('hidden');
+        button.classList.remove('close');
+        button.setAttribute('count', '0');
+      }
+    }
+
+    keepMastheadInline();
+    window.addEventListener('resize', keepMastheadInline);
+  })();
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
