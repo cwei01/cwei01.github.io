@@ -99,7 +99,7 @@ redirect_from:
 
 I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. **[Fuzhen Zhuang](https://fuzhenzhuang.github.io/)**. I also maintain close research collaborations with Prof. **[Zhao Zhang](https://zhangzhaocs.github.io/)** and Prof. **[Shuang Li](https://shuangli.xyz/)**. Our team homepage is **[KTL](https://ktl.buaa.edu.cn/introduction)**.
 
-My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in **Recommendation** and **large language models**.
+My research interests focus on advancing the efficiency and reliability of machine learning models, specifically in **Recommender Systems (RS)** and **Large Language Models (LLMs)**.
 
 
 <h2 id="news">News</h2>
@@ -108,7 +108,7 @@ My research interests focus on advancing the efficiency and reliability of machi
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
     <li><strong>2026.06:</strong> Received the Beihang Excellent Academic Fund</li>
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
-    <li><strong>2026.05:</strong> 1 paper accepted by ICML2026</li>
+    <li><strong>2026.05:</strong> 1 paper accepted by ICML 2026</li>
     <li><strong>2026.04:</strong> 1 paper accepted by TOIS</li>
     <li><strong>2026.01:</strong> 2 papers accepted by ICLR2026</li>
     <li><strong>2025.12:</strong> Received funding from the 2025 Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program</li>

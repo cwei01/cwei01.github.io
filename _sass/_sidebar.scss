@@ -119,10 +119,13 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: 1.2em;
+  color: #527bbd;
+  font-weight: 700;
 }
 
 .author__bio {
   margin: 0;
+  font-weight: 700;
 
   @include breakpoint($large) {
     margin-top: 10px;
