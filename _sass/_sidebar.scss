@@ -123,6 +123,21 @@
   font-weight: 700;
 }
 
+.author__name-en {
+  display: block;
+}
+
+.author__name-cn {
+  display: inline-block;
+  margin-top: 0.12em;
+  color: #527bbd;
+  font-family: "STXingkai", "Kaiti SC", "KaiTi", "Hannotate SC", "Songti SC", serif;
+  font-size: 1.22em;
+  font-weight: 700;
+  line-height: 1;
+  text-shadow: 0.025em 0.025em 0 rgba(82, 123, 189, 0.2);
+}
+
 .author__bio {
   margin: 0;
   font-weight: 700;
