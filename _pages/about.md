@@ -130,22 +130,22 @@ My research interests focus on advancing the efficiency and reliability of machi
   <li>
     <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
     <span class="publication-authors"><strong>Wei Chen</strong><sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang</span>
-    <span class="publication-venue">International Conference on Machine Learning (<strong>ICML 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+    <span class="publication-venue">International Conference on Machine Learning (<strong>ICML 2026</strong>) <span class="publication-links">[<a href="https://arxiv.org/pdf/2605.18920">paper</a>] [<a href="https://github.com/gxingyu/SynGR">code</a>]</span></span>
   </li>
   <li>
     <span class="publication-title">FairNS: Fair Negative Sampling in Collaborative Filtering via Diffusion Models</span>
     <span class="publication-authors"><strong>Wei Chen</strong>, Yifei Li, Shuang Li, Jing Fan, Meng Yuan, Zhao Zhang, Yakun Wang, Xiao Wang, Deqing Wang, Fuzhen Zhuang</span>
-    <span class="publication-venue">ACM Transactions on Information Systems (<strong>TOIS</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+    <span class="publication-venue">ACM Transactions on Information Systems (<strong>TOIS</strong>) <span class="publication-links">[<a href="https://dl.acm.org/doi/10.1145/3816254">paper</a>]</span></span>
   </li>
   <li>
     <span class="publication-title">Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation</span>
     <span class="publication-authors"><strong>Wei Chen</strong>, Xingyu Guo, Shuang Li, Zhao Zhang, Yan Zhong, Fuzhen Zhuang, Deqing Wang</span>
-    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://arxiv.org/pdf/2602.10489">paper</a>] [<a href="https://github.com/gxingyu/ADAlign">code</a>]</span></span>
   </li>
   <li>
     <span class="publication-title">Learning Structure-Semantic Evolution Trajectories for Graph Domain Adaptation</span>
     <span class="publication-authors"><strong>Wei Chen</strong>, Xingyu Guo, Shuang Li, Yan Zhong, Zhao Zhang, Fuzhen Zhuang, Hongrui Liu, Libang Zhang, Guo Ye, Humei He</span>
-    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://cwei01.github.io">paper</a>]</span></span>
+    <span class="publication-venue">International Conference on Learning Representations (<strong>ICLR 2026</strong>) <span class="publication-links">[<a href="https://arxiv.org/pdf/2602.10506">paper</a>] [<a href="https://github.com/gxingyu/DiffGDA">code</a>]</span></span>
   </li>
 </ul>
 
