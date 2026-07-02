@@ -183,8 +183,8 @@ redirect_from:
     <h1 class="profile-intro__name">Wei Chen（陈伟）</h1>
     <p class="profile-intro__title">PhD student at Beihang University</p>
     <div class="profile-intro__details">
-      <p><strong>Location:</strong> Beijing, China</p>
-      <p><strong>Email:</strong> <a href="mailto:chenwei23@buaa.edu.cn">chenwei23@buaa.edu.cn</a></p>
+      <p><strong>Location:</strong> Room 1104, Block C of New Main Building, Beijing, China</p>
+      <p><strong>Email:</strong> <a href="mailto:cwei_01@163.com">cwei_01@163.com</a></p>
     </div>
     <p class="profile-intro__links">[<a href="https://github.com/cwei01">GitHub</a>] [<a href="https://scholar.google.com/citations?user=9CbQR44AAAAJ&amp;hl=en">Google Scholar</a>]</p>
   </div>
