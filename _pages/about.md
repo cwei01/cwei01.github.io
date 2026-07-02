@@ -186,7 +186,7 @@ redirect_from:
       <p><strong>Address:</strong> XueYuan Road No.37, HaiDian District, BeiJing, China.</p>
       <p><strong>Email:</strong> <a href="mailto:cwei_01@163.com">cwei_01@163.com</a></p>
     </div>
-    <p class="profile-intro__links">[<a href="https://github.com/cwei01">GitHub</a>] [<a href="https://scholar.google.com/citations?user=9CbQR44AAAAJ&amp;hl=en">Google Scholar</a>]</p>
+    <p class="profile-intro__links">[<a href="https://github.com/cwei01">GitHub</a>] [<a href="https://scholar.google.com/citations?user=9CbQR44AAAAJ&amp;hl=en">Google Scholar</a>] [<a href="/images/wechat.png">WeChat</a>]</p>
   </div>
 </section>
 
