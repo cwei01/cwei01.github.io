@@ -3,12 +3,94 @@ permalink: /
 layout: single
 classes: wide
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 <style>
+  @media (min-width: 925px) {
+    #main .page {
+      float: none;
+      width: 100%;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  .profile-intro {
+    display: grid;
+    grid-template-columns: minmax(150px, 220px) 1fr;
+    gap: 2rem;
+    align-items: center;
+    margin: 0.75rem 0 1.6rem;
+    padding: 1.6rem 0;
+    border-top: 1px solid #8f9a8f;
+    border-bottom: 1px solid #8f9a8f;
+  }
+
+  .profile-intro__photo {
+    width: 100%;
+    max-width: 220px;
+    height: auto;
+    border: 2px solid #111;
+  }
+
+  .profile-intro__name {
+    margin: 0 0 0.35rem;
+    color: #000;
+    font-family: Georgia, "Times New Roman", "Songti SC", "STSong", "SimSun", serif;
+    font-size: 1.65em;
+    font-weight: 700;
+    line-height: 1.1;
+  }
+
+  .profile-intro__title {
+    margin: 0 0 1.15rem;
+    color: #000;
+    font-size: 1.12em;
+    font-weight: 700;
+  }
+
+  .profile-intro__details {
+    margin: 0 0 1.15rem;
+    color: #000;
+    line-height: 1.45;
+  }
+
+  .profile-intro__details p {
+    margin: 0 0 0.15rem;
+  }
+
+  .profile-intro__details a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .profile-intro__links {
+    margin: 0;
+    color: #000;
+    line-height: 1.25;
+  }
+
+  .profile-intro__links a {
+    color: #527bbd;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  @media (max-width: 700px) {
+    .profile-intro {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      padding: 1.1rem 0;
+    }
+
+    .profile-intro__photo {
+      max-width: 180px;
+    }
+  }
+
   .news-scroll-box {
     max-height: 135px;
     overflow-y: auto;
@@ -94,6 +176,19 @@ redirect_from:
     color: red;
   }
 </style>
+
+<section class="profile-intro" aria-label="Profile">
+  <img class="profile-intro__photo" src="/images/profile.png" alt="Wei Chen">
+  <div class="profile-intro__text">
+    <h1 class="profile-intro__name">Wei Chen（陈伟）</h1>
+    <p class="profile-intro__title">PhD student at Beihang University</p>
+    <div class="profile-intro__details">
+      <p><strong>Location:</strong> Beijing, China</p>
+      <p><strong>Email:</strong> <a href="mailto:chenwei23@buaa.edu.cn">chenwei23@buaa.edu.cn</a></p>
+    </div>
+    <p class="profile-intro__links">[<a href="https://github.com/cwei01">GitHub</a>] [<a href="https://scholar.google.com/citations?user=9CbQR44AAAAJ&amp;hl=en">Google Scholar</a>]</p>
+  </div>
+</section>
 
 <h2 id="profile">Biography</h2>
 
