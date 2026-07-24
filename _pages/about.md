@@ -194,7 +194,7 @@ redirect_from:
 
 I am currently a final-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. **[Fuzhen Zhuang](https://fuzhenzhuang.github.io/)**. I also maintain close research collaborations with Prof. **[Zhao Zhang](https://zhangzhaocs.github.io/)** and Prof. **[Shuang Li](https://shuangli.xyz/)**. Our team homepage is **[KTL](https://ktl.buaa.edu.cn/introduction)**.
 
-My research interests lie in **Recommender Systems (RS)** and **Large Language Models (LLMs)**.
+My research interests lie in **Large Language Models (LLMs)** and **Recommender Systems (RS)**.
 
 
 <h2 id="news">News</h2>
@@ -224,9 +224,9 @@ My research interests lie in **Recommender Systems (RS)** and **Large Language M
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
   <li>
-    <span class="publication-title"><strong>Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</strong></span>
+    <span class="publication-title">Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</span>
     <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
-    <span class="publication-venue"><em>In Journal of Computer Research and Development (in Chinese)</em>, 2026.</span>
+    <span class="publication-venue"><em>Journal of Computer Research and Development (in Chinese)</em>, 2026.</span>
   </li>
   <li>
     <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
