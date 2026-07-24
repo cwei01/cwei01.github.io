@@ -200,7 +200,7 @@ My research interests lie in **Recommender Systems (RS)** and **Large Language M
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
-    <li><strong>2026.07:</strong> 1 paper published in <strong>计算机研究与发展</strong></li>
+    <li><strong>2026.07:</strong> 1 paper published in <strong>Journal of Computer Research and Development (in Chinese)</strong></li>
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
     <li><strong>2026.06:</strong> Received the Beihang Excellent Academic Fund</li>
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
@@ -224,9 +224,9 @@ My research interests lie in **Recommender Systems (RS)** and **Large Language M
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
   <li>
-    <span class="publication-authors"><strong>陈伟</strong>, 庄福振</span>
-    <span class="publication-title">"多视图增强图注意力网络的多模态知识图谱补全"</span>
-    <span class="publication-venue"><strong>《计算机研究与发展》</strong>, 2026.</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
+    <span class="publication-title"><strong>Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</strong></span>
+    <span class="publication-venue"><em>In Journal of Computer Research and Development (in Chinese)</em>, 2026.</span>
   </li>
   <li>
     <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
