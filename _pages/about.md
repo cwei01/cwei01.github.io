@@ -200,7 +200,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
-    <li><strong>2026.07:</strong> 1 paper published in Journal of Computer Research and Development (in Chinese)</li>
+    <li><strong>2026.07:</strong> 1 paper accepted by Journal of Computer Research and Development (in Chinese)</li>
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
     <li><strong>2026.06:</strong> Received the Beihang Excellent Academic Fund</li>
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
