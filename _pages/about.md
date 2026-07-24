@@ -192,7 +192,7 @@ redirect_from:
 
 <h2 id="profile">Biography</h2>
 
-I am currently a third-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. **[Fuzhen Zhuang](https://fuzhenzhuang.github.io/)**. I also maintain close research collaborations with Prof. **[Zhao Zhang](https://zhangzhaocs.github.io/)** and Prof. **[Shuang Li](https://shuangli.xyz/)**. Our team homepage is **[KTL](https://ktl.buaa.edu.cn/introduction)**.
+I am currently a final-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. **[Fuzhen Zhuang](https://fuzhenzhuang.github.io/)**. I also maintain close research collaborations with Prof. **[Zhao Zhang](https://zhangzhaocs.github.io/)** and Prof. **[Shuang Li](https://shuangli.xyz/)**. Our team homepage is **[KTL](https://ktl.buaa.edu.cn/introduction)**.
 
 My research interests lie in **Recommender Systems (RS)** and **Large Language Models (LLMs)**.
 
@@ -200,7 +200,7 @@ My research interests lie in **Recommender Systems (RS)** and **Large Language M
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
-    <li><strong>2026.07:</strong> 1 paper published in <strong>Journal of Computer Research and Development (in Chinese)</strong></li>
+    <li><strong>2026.07:</strong> 1 paper published in Journal of Computer Research and Development (in Chinese)</li>
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
     <li><strong>2026.06:</strong> Received the Beihang Excellent Academic Fund</li>
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
@@ -224,8 +224,8 @@ My research interests lie in **Recommender Systems (RS)** and **Large Language M
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
   <li>
-    <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
     <span class="publication-title"><strong>Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</strong></span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
     <span class="publication-venue"><em>In Journal of Computer Research and Development (in Chinese)</em>, 2026.</span>
   </li>
   <li>
