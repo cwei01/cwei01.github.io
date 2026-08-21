@@ -200,6 +200,8 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
+    <li><strong>2026.08:</strong> 2 papers accepted by EMNLP 2026</li>
+    <li><strong>2026.07:</strong> 1 paper accepted by Journal of Computer Research and Development (in Chinese)</li>
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
     <li><strong>2026.06:</strong> Received the Beihang Excellent Academic Fund</li>
     <li><strong>2026.06:</strong> Awarded Outstanding Graduate Student of Beihang University</li>
@@ -222,6 +224,21 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
+  <li>
+    <span class="publication-title">Mitigating Overthinking via Interleaved System-1/2 Reasoning in Large Language Models</span>
+    <span class="publication-authors">Han Ding, <strong>Wei Chen</strong>, Fuzhen Zhuang</span>
+    <span class="publication-venue">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2026</strong>)</span>
+  </li>
+  <li>
+    <span class="publication-title">Structure Matters: Semantic-Structural Dual-Path Arbitration Named Entity Recognition with LLMs</span>
+    <span class="publication-authors">Xinghong Hou, Yiqi Tong, <strong>Wei Chen</strong>, Wei Guo, Fuzhen Zhuang</span>
+    <span class="publication-venue">Findings of the Association for Computational Linguistics: EMNLP 2026 (<strong>EMNLP 2026 Findings</strong>)</span>
+  </li>
+  <li>
+    <span class="publication-title">Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</span>
+    <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
+    <span class="publication-venue"><em>Journal of Computer Research and Development (in Chinese)</em>, 2026.</span>
+  </li>
   <li>
     <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
     <span class="publication-authors"><strong>Wei Chen</strong><sup>#</sup>, Xingyu Guo<sup>#</sup>, Shuang Li, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang</span>
