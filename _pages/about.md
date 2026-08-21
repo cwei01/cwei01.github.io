@@ -232,7 +232,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
   <li>
     <span class="publication-title">Structure Matters: Semantic-Structural Dual-Path Arbitration Named Entity Recognition with LLMs</span>
     <span class="publication-authors">Xinghong Hou, Yiqi Tong, <strong>Wei Chen</strong>, Wei Guo, Fuzhen Zhuang</span>
-    <span class="publication-venue">Findings of the Association for Computational Linguistics: EMNLP 2026 (<strong>EMNLP 2026 Findings</strong>)</span>
+    <span class="publication-venue">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2026 Findings</strong>)</span>
   </li>
   <li>
     <span class="publication-title">Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</span>
