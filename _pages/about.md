@@ -194,6 +194,8 @@ redirect_from:
 
 I am currently a final-year Ph.D. student at Beihang University, where I am privileged to be advised by Prof. **[Fuzhen Zhuang](https://fuzhenzhuang.github.io/)**. I also maintain close research collaborations with Prof. **[Zhao Zhang](https://zhangzhaocs.github.io/)** and Prof. **[Shuang Li](https://shuangli.xyz/)**. Our team homepage is **[KTL](https://ktl.buaa.edu.cn/introduction)**.
 
+Prior to that, I received my Master's degree at Chongqing University, advised by Prof. Zhongshi He.
+
 My research interests lie in **Large Language Models (LLMs)** and **Recommender Systems (RS)**.
 
 
