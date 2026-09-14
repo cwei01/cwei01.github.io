@@ -243,7 +243,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
   <li>
     <span class="publication-title">Multi-view Enhanced Graph Attention Network for Multimodal Knowledge Graph Completion</span>
     <span class="publication-authors"><strong>Wei Chen</strong>, Fuzhen Zhuang</span>
-    <span class="publication-venue">Journal of Computer Research and Development (in Chinese), 2026.</span>
+    <span class="publication-venue">Journal of Computer Research and Development (in Chinese)</span>
   </li>
   <li>
     <span class="publication-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>
