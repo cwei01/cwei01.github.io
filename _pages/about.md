@@ -227,7 +227,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <ul class="publication-list">
   <li>
     <span class="publication-title">MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction</span>
-    <span class="publication-authors">Yutian Xiao, Shukuan Wang, Zhao Zhang, Meng Yuan, <strong>Wei Chen</strong>, Hao Geng, Chenghao Zhang, Yanze Zhang, Shanqi Liu, Chao Feng, Xiang Li, Lantao Hu, Han Li, Fuzhen Zhuang</span>
+    <span class="publication-authors">Yutian Xiao, Shukuan Wang, Zhao Zhang, Meng Yuan, <strong>Wei Chen</strong>, Hao Geng, Chenghao Zhang,<br>Yanze Zhang, Shanqi Liu, Chao Feng, Xiang Li, Lantao Hu, Han Li, Fuzhen Zhuang</span>
     <span class="publication-venue">IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</span>
   </li>
   <li>
