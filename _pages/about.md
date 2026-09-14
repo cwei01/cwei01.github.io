@@ -200,6 +200,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
+    <li><strong>2026.09:</strong> 1 paper accepted by TKDE</li>
     <li><strong>2026.08:</strong> 2 papers accepted by EMNLP 2026</li>
     <li><strong>2026.07:</strong> 1 paper accepted by Journal of Computer Research and Development (in Chinese)</li>
     <li><strong>2026.06:</strong> Served as a Program Committee (PC) member for AAAI 2027</li>
@@ -224,6 +225,11 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
+  <li>
+    <span class="publication-title">MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction</span>
+    <span class="publication-authors">Yutian Xiao, Shukuan Wang, Zhao Zhang, Meng Yuan, <strong>Wei Chen</strong>, Hao Geng, Chenghao Zhang, Yanze Zhang, Shanqi Liu, Chao Feng, Xiang Li, Lantao Hu, Han Li, Fuzhen Zhuang</span>
+    <span class="publication-venue">IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)</span>
+  </li>
   <li>
     <span class="publication-title">Mitigating Overthinking via Interleaved System-1/2 Reasoning in Large Language Models</span>
     <span class="publication-authors">Han Ding, <strong>Wei Chen</strong>, Fuzhen Zhuang</span>
