@@ -200,6 +200,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
+    <li><strong>2026.09:</strong> 1 paper accepted by NeurIPS 2026</li>
     <li><strong>2026.09:</strong> Served as a reviewer for ICLR 2027</li>
     <li><strong>2026.09:</strong> 1 paper accepted by TKDE</li>
     <li><strong>2026.08:</strong> 2 papers accepted by EMNLP 2026</li>
@@ -226,6 +227,11 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 
 <p class="publication-year"><strong>2026</strong></p>
 <ul class="publication-list">
+  <li>
+    <span class="publication-title">Beyond Pairwise Supervision: Spectral Characteristic Matching for Data-Efficient Multimodal Alignment</span>
+    <span class="publication-authors">Xinchao Wang, Shuang Li, <strong>Wei Chen</strong>, Jingxuan Kang, Fuzhen Zhuang, Deqing Wang</span>
+    <span class="publication-venue">Conference on Neural Information Processing Systems (<strong>NeurIPS 2026</strong>)</span>
+  </li>
   <li>
     <span class="publication-title">MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction</span>
     <span class="publication-authors">Yutian Xiao, Shukuan Wang, Zhao Zhang, Meng Yuan, <strong>Wei Chen</strong>, Hao Geng, Chenghao Zhang,<br>Yanze Zhang, Shanqi Liu, Chao Feng, Xiang Li, Lantao Hu, Han Li, Fuzhen Zhuang</span>
