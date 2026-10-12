@@ -200,6 +200,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
+    <li><strong>2026.10:</strong> Received National Scholarship</li>
     <li><strong>2026.09:</strong> 1 paper accepted by NeurIPS 2026</li>
     <li><strong>2026.09:</strong> Served as a reviewer for ICLR 2027</li>
     <li><strong>2026.09:</strong> 1 paper accepted by TKDE</li>
@@ -347,6 +348,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 
 <h2 id="honors">Honors</h2>
 <ul style="padding-left: 20px; margin-left: 0;">
+  <li><strong>2026.10</strong> National Scholarship (国家奖学金)</li>
   <li><strong>2026.06</strong> Beihang Excellent Academic Fund (北航卓越学术基金)</li>
   <li><strong>2026.05</strong> Outstanding Graduate Student of Beihang University (北航优秀研究生)</li>
   <li><strong>2025.12</strong> Young Talent Support Project of the China Association for Science and Technology Doctoral Special Program (中国科协青年人才托举工程博士生专项计划)</li>
