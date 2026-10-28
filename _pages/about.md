@@ -200,6 +200,7 @@ My research interests lie in **Large Language Models (LLMs)** and **Recommender 
 <h2 id="news">News</h2>
 <div class="news-scroll-box">
   <ul>
+    <li><strong>2026.10:</strong> Serving as a Senior Program Committee (SPC) member for IJCAI 2027</li>
     <li><strong>2026.10:</strong> Received National Scholarship</li>
     <li><strong>2026.09:</strong> 1 paper accepted by NeurIPS 2026</li>
     <li><strong>2026.09:</strong> Served as a reviewer for ICLR 2027</li>
